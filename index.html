@@ -61,6 +61,7 @@ label.inline{display:flex;align-items:center;gap:8px;color:var(--muted);font-siz
 .mode .ic{width:34px;height:34px;border-radius:10px;background:var(--accent-soft);color:var(--accent);display:grid;place-items:center;flex:none}
 .mode h3{margin:0;font-size:16px;font-weight:700}
 .mode p{margin:0;color:var(--muted);font-size:13.5px}
+.mode .rprog{font-size:12.5px}
 .mode .left{font-size:13px;font-weight:600;color:var(--accent);font-variant-numeric:tabular-nums}
 .rule{color:var(--muted);font-size:13.5px;margin:0}
 /* card */
@@ -212,7 +213,7 @@ nav button{white-space:nowrap}
 <div class="pop" id="pop" role="status" aria-live="polite" hidden><b id="pop-w"></b><span id="pop-t"></span><small id="pop-n"></small><a id="pop-g" class="popbtn" target="_blank" rel="noopener" hidden>Google Переводчик ↗</a><button type="button" class="popbtn" id="pop-s" hidden>Перевод предложения</button></div>
 
 <script>
-const GOAL = 10;
+const GOAL = 5;
 const SESSION_SIZE = 10;
 const ICONS = {
   write:'<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>',
@@ -241,6 +242,9 @@ const loose = s => exact(s).normalize('NFD').replace(/[̀-ͯ]/g,'');
 const cnt = (w,m) => Math.min(GOAL, (S.progress[w.id]||{})[m] || 0);
 const modesFor = w => MODES.filter(m => m.id !== 'fill' || (w.ex && w.ex.includes('___')));
 const isLearned = w => modesFor(w).every(m => cnt(w, m.id) >= GOAL);
+const canWrite = w => cnt(w, 'write') >= GOAL;
+const knowsTr = w => modesFor(w).filter(m => m.id !== 'write').every(m => cnt(w, m.id) >= GOAL);
+const anyLearned = w => canWrite(w) || knowsTr(w);
 const lessons = () => [...new Set(S.words.map(w => w.lesson || 'Без урока'))];
 const sorted = ws => ws.slice().sort((a,b) => (a.lesson||'').localeCompare(b.lesson||'', 'ru', {numeric:true}) || (a.n||0)-(b.n||0) || a.ro.localeCompare(b.ro,'ro'));
 const inLesson = w => S.lesson === 'all' || (w.lesson || 'Без урока') === S.lesson;
@@ -273,7 +277,7 @@ function renderNotice(){ const n=$('#notice'); n.hidden=!S.notice; n.textContent
 function renderNav(){
   document.querySelectorAll('#nav button').forEach(b => b.setAttribute('aria-selected', String(b.dataset.view === S.view)));
   $('#n-dict').textContent = S.words.filter(w => !isLearned(w)).length;
-  $('#n-learned').textContent = S.words.filter(isLearned).length;
+  $('#n-learned').textContent = S.words.filter(anyLearned).length;
   $('#n-rules').textContent = S.rules.length;
   $('#n-texts').textContent = S.texts.length;
   $('#n-phr').textContent = S.phrases.length;
@@ -305,16 +309,20 @@ function homeHTML(){
     const needOpts = (m.id === 'choose' || m.id === 'fill') && S.words.length < 3;
     const dis = !left || needOpts;
     const note = needOpts ? 'Нужно хотя бы 3 слова' : left ? `${left} ${plural(left,'слово','слова','слов')} в работе` : 'Всё набрано';
+    const elig = active.filter(w => modesFor(w).some(x => x.id === m.id));
+    const done = elig.filter(w => cnt(w, m.id) >= GOAL).length, tot = elig.length || 1;
     return `<button class="mode" data-mode="${m.id}" ${dis?'disabled':''}>
       <div class="top"><span class="ic">${ICONS[m.id]}</span><h3>${m.title}</h3></div>
-      <p>${m.hint}</p><span class="left">${note}</span></button>`;
+      <p>${m.hint}</p>
+      <div class="rprog ${elig.length && done === elig.length ? 'full' : ''}"><div class="bar"><i style="width:${done/tot*100}%"></i></div><span>выучено ${done} / ${elig.length}</span></div>
+      <span class="left">${note}</span></button>`;
   }).join('');
   return `<div class="toolbar"><div class="stats">
       <span><b>${active.length}</b> ${plural(active.length,'слово','слова','слов')}</span>
       <span><b>${active.length-learned}</b> учу</span>
       <span><b>${learned}</b> выучено</span></div>${lessonSel}</div>
     <div class="modes">${cards}</div>
-    <p class="rule">Слово переходит в «Выученные», когда в каждой из трёх тренировок набрано ${GOAL} верных ответов. За одну тренировку — до ${SESSION_SIZE} слов.</p>`;
+    <p class="rule">В каждой тренировке слово считается выученным после ${GOAL} верных ответов. «Написать» на ${GOAL} — слово попадает в «Выученные → Могу написать»; «Выбрать перевод» и «Вставить слово» на ${GOAL} — в «Знаю перевод». За одну тренировку — до ${SESSION_SIZE} слов.</p>`;
 }
 function plural(n,a,b,c){ const m10=n%10, m100=n%100; return m10===1&&m100!==11?a : m10>=2&&m10<=4&&(m100<12||m100>14)?b : c; }
 
@@ -325,20 +333,35 @@ function metersHTML(w){
     return `<div class="meter ${c>=GOAL?'full':''}" title="${m.title}: ${c} из ${GOAL}"><div class="bar"><i style="width:${c/GOAL*100}%"></i></div><span>${m.short} ${c}</span></div>`;
   }).join('')}</div>`;
 }
+function wordRow(w, extra){
+  return `<div class="word">
+      <div class="ro">${esc(w.ro)}</div>
+      ${extra}
+      <div class="ru">${esc(w.ru)}</div>
+      ${w.ex ? `<div class="ex">${esc(w.ex.replace('___', w.exForm || w.ro))}${w.exRu ? ' — ' + esc(w.exRu) : ''}</div>` : ''}
+    </div>`;
+}
 function listHTML(learnedOnly){
   if (!S.words.length) return emptyHTML();
-  const ws = sorted(S.words.filter(w => learnedOnly ? isLearned(w) : !isLearned(w)));
-  if (!ws.length) return `<div class="empty"><h3>${learnedOnly ? 'Пока ничего не выучено' : 'Все слова выучены'}</h3>
-    <p>${learnedOnly ? `Набери по ${GOAL} верных ответов во всех тренировках — слово появится здесь.` : 'Пришли следующую страницу учебника — добавлю новые слова.'}</p></div>`;
+  if (learnedOnly) return learnedHTML();
+  const ws = sorted(S.words.filter(w => !isLearned(w)));
+  if (!ws.length) return `<div class="empty"><h3>Все слова выучены</h3><p>Пришли следующую страницу учебника — добавлю новые слова.</p></div>`;
   const groups = {};
   ws.forEach(w => (groups[w.lesson || 'Без урока'] ||= []).push(w));
   return Object.entries(groups).map(([l, list]) => `<section class="lesson"><h2>${esc(l)} · ${list.length}</h2><div class="words">
-    ${list.map(w => `<div class="word">
-      <div class="ro">${esc(w.ro)}${w.example ? '<span class="tag">пример</span>' : ''}</div>
-      ${learnedOnly ? `<button class="linkbtn" data-reset="${esc(w.id)}">Повторить заново</button>` : metersHTML(w)}
-      <div class="ru">${esc(w.ru)}</div>
-      ${w.ex ? `<div class="ex">${esc(w.ex.replace('___', w.exForm || w.ro))}${w.exRu ? ' — ' + esc(w.exRu) : ''}</div>` : ''}
-    </div>`).join('')}</div></section>`).join('');
+    ${list.map(w => wordRow(w, metersHTML(w))).join('')}</div></section>`).join('');
+}
+function learnedHTML(){
+  const parts = [
+    { key: 'write', title: 'Могу написать', test: canWrite, empty: `Набери ${GOAL} верных ответов в тренировке «Написать» — слово появится здесь.` },
+    { key: 'tr', title: 'Знаю перевод', test: knowsTr, empty: `Набери по ${GOAL} верных ответов в «Выбрать перевод» и «Вставить слово» — слово появится здесь.` }
+  ];
+  return parts.map(p => {
+    const ws = sorted(S.words.filter(p.test));
+    return `<section class="lesson"><h2>${p.title} · ${ws.length} из ${S.words.length}</h2>
+      ${ws.length ? `<div class="words">${ws.map(w => wordRow(w, `<button class="linkbtn" data-reset="${esc(w.id)}" data-part="${p.key}">Повторить заново</button>`)).join('')}</div>`
+        : `<div class="empty"><p>${p.empty}</p></div>`}</section>`;
+  }).join('');
 }
 
 /* ---------- session ---------- */
@@ -833,7 +856,10 @@ document.addEventListener('click', e => {
   }
   if (t.dataset.mode){ startSession(t.dataset.mode); return; }
   if (t.dataset.say){ say(t.dataset.say); return; }
-  if (t.dataset.reset){ const w = S.words.find(x => x.id === t.dataset.reset); if (w){ saveProgress(w.id, {write:0,speak:0,choose:0,fill:0}); render(); } return; }
+  if (t.dataset.reset){ const w = S.words.find(x => x.id === t.dataset.reset); if (w){
+    const cur = {write:0, speak:0, choose:0, fill:0, ...(S.progress[w.id]||{})};
+    if (t.dataset.part === 'write') cur.write = 0; else { cur.choose = 0; cur.fill = 0; }
+    saveProgress(w.id, cur); render(); } return; }
   if (t.dataset.ch){ const i = $('#ans') || $('#rans'); const a = i.selectionStart ?? i.value.length, b = i.selectionEnd ?? a;
     i.value = i.value.slice(0,a) + t.dataset.ch + i.value.slice(b); i.focus(); i.setSelectionRange(a+1, a+1); return; }
   const s = S.session;
