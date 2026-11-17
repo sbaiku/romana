@@ -1,0 +1,1797 @@
+[
+ {
+  "id": "camera",
+  "glossary": [
+   {
+    "ro": "cu chirie",
+    "ru": "съёмный, в аренду"
+   },
+   {
+    "ro": "chirie",
+    "ru": "арендная плата"
+   },
+   {
+    "ro": "etaj",
+    "ru": "этаж"
+   },
+   {
+    "ro": "living / cameră de zi",
+    "ru": "гостиная"
+   },
+   {
+    "ro": "dormitor",
+    "ru": "спальня"
+   },
+   {
+    "ro": "baie",
+    "ru": "ванная"
+   },
+   {
+    "ro": "cam",
+    "ru": "довольно, немного"
+   },
+   {
+    "ro": "nici… nu",
+    "ru": "тоже не"
+   },
+   {
+    "ro": "prea",
+    "ru": "слишком"
+   },
+   {
+    "ro": "frigider",
+    "ru": "холодильник"
+   },
+   {
+    "ro": "aragaz",
+    "ru": "плита"
+   },
+   {
+    "ro": "mașină de spălat vase",
+    "ru": "посудомоечная машина"
+   },
+   {
+    "ro": "pat dublu",
+    "ru": "двуспальная кровать"
+   },
+   {
+    "ro": "noptieră",
+    "ru": "тумбочка"
+   },
+   {
+    "ro": "dulap pentru haine",
+    "ru": "шкаф для одежды"
+   },
+   {
+    "ro": "raft",
+    "ru": "полка"
+   },
+   {
+    "ro": "covor",
+    "ru": "ковёр"
+   },
+   {
+    "ro": "pe jos",
+    "ru": "на полу"
+   },
+   {
+    "ro": "tablou",
+    "ru": "картина"
+   },
+   {
+    "ro": "a avea nevoie de",
+    "ru": "нуждаться в"
+   },
+   {
+    "ro": "canapea",
+    "ru": "диван"
+   },
+   {
+    "ro": "mulțumit de",
+    "ru": "довольный чем-то"
+   },
+   {
+    "ro": "în plus",
+    "ru": "к тому же"
+   }
+  ],
+  "level": "A1",
+  "n": 1,
+  "paragraphs": [
+   [
+    {
+     "ro": "Aya este studentă și este din Iordania.",
+     "ru": "Ая — студентка, она из Иордании."
+    },
+    {
+     "ro": "Ea este colegă cu Dana și Mihai la cursul de limba română.",
+     "ru": "Она учится вместе с Даной и Михаем на курсе румынского."
+    },
+    {
+     "ro": "Acum Aya locuiește în Craiova.",
+     "ru": "Сейчас Ая живёт в Крайове."
+    },
+    {
+     "ro": "Are în centru un apartament mic, cu chirie.",
+     "ru": "У неё в центре маленькая съёмная квартира."
+    },
+    {
+     "ro": "Apartamentul este la etajul 1 și are balcon.",
+     "ru": "Квартира на первом этаже, с балконом."
+    }
+   ],
+   [
+    {
+     "ro": "Are două camere: un living și un dormitor.",
+     "ru": "В ней две комнаты: гостиная и спальня."
+    },
+    {
+     "ro": "Baia este cam mică.",
+     "ru": "Ванная довольно маленькая."
+    },
+    {
+     "ro": "Nici bucătăria nu este prea mare.",
+     "ru": "Кухня тоже не слишком большая."
+    },
+    {
+     "ro": "Dar nu este o problemă, pentru că bucătăria are un frigider, un aragaz și o mașină de spălat vase.",
+     "ru": "Но это не проблема, потому что на кухне есть холодильник, плита и посудомоечная машина."
+    }
+   ],
+   [
+    {
+     "ro": "Dormitorul este foarte mare.",
+     "ru": "Спальня очень большая."
+    },
+    {
+     "ro": "În dormitor este un pat dublu și o noptieră.",
+     "ru": "В спальне двуспальная кровать и тумбочка."
+    },
+    {
+     "ro": "Lângă pat este un dulap pentru haine.",
+     "ru": "Рядом с кроватью — шкаф для одежды."
+    },
+    {
+     "ro": "Pe perete sunt o oglindă și un raft pentru cărți.",
+     "ru": "На стене зеркало и полка для книг."
+    },
+    {
+     "ro": "Pe jos este un covor moale.",
+     "ru": "На полу мягкий ковёр."
+    },
+    {
+     "ro": "Aya are și un birou, unde învață în fiecare seară.",
+     "ru": "У Аи есть ещё письменный стол, за которым она занимается каждый вечер."
+    },
+    {
+     "ro": "Pe pereți sunt două tablouri frumoase.",
+     "ru": "На стенах две красивые картины."
+    },
+    {
+     "ro": "În apartament nu este televizor.",
+     "ru": "Телевизора в квартире нет."
+    },
+    {
+     "ro": "Aya nu are nevoie de televizor, pentru că citește mult.",
+     "ru": "Ае не нужен телевизор, потому что она много читает."
+    }
+   ],
+   [
+    {
+     "ro": "În living sunt o canapea și o masă mică.",
+     "ru": "В гостиной диван и маленький стол."
+    },
+    {
+     "ro": "Uneori colegii vin la Aya și beau un ceai pe balcon.",
+     "ru": "Иногда однокурсники приходят к Ае и пьют чай на балконе."
+    },
+    {
+     "ro": "Aya este mulțumită de apartament.",
+     "ru": "Ая довольна квартирой."
+    },
+    {
+     "ro": "Pentru o persoană, apartamentul este perfect.",
+     "ru": "Для одного человека квартира идеальная."
+    },
+    {
+     "ro": "În plus, chiria nu este mare.",
+     "ru": "К тому же аренда недорогая."
+    }
+   ]
+  ],
+  "questions": [
+   {
+    "a": "Din Iordania",
+    "opts": [
+     "Din Iordania",
+     "Din Siria",
+     "Din Grecia"
+    ],
+    "q": "De unde este Aya?",
+    "ru": "Откуда Ая?"
+   },
+   {
+    "a": "În centrul Craiovei",
+    "opts": [
+     "În centrul Craiovei",
+     "La țară",
+     "În București"
+    ],
+    "q": "Unde stă Aya?",
+    "ru": "Где живёт Ая?"
+   },
+   {
+    "a": "Două",
+    "opts": [
+     "Două",
+     "Trei",
+     "Una"
+    ],
+    "q": "Câte camere are apartamentul?",
+    "ru": "Сколько комнат в квартире?"
+   },
+   {
+    "a": "Cam mică",
+    "opts": [
+     "Cam mică",
+     "Foarte mare",
+     "Nouă și mare"
+    ],
+    "q": "Cum este baia?",
+    "ru": "Какая ванная?"
+   },
+   {
+    "a": "Un frigider, un aragaz și o mașină de spălat vase",
+    "opts": [
+     "Un frigider, un aragaz și o mașină de spălat vase",
+     "Un pat și un dulap",
+     "Un televizor și o canapea"
+    ],
+    "q": "Ce obiecte are Aya în bucătărie?",
+    "ru": "Что есть у Аи на кухне?"
+   },
+   {
+    "a": "Foarte mare",
+    "opts": [
+     "Foarte mare",
+     "Mic",
+     "Fără ferestre"
+    ],
+    "q": "Cum este dormitorul?",
+    "ru": "Какая спальня?"
+   },
+   {
+    "a": "Televizor",
+    "opts": [
+     "Televizor",
+     "Frigider",
+     "Oglindă"
+    ],
+    "q": "Ce nu are Aya în apartament?",
+    "ru": "Чего нет у Аи в квартире?"
+   },
+   {
+    "a": "La etajul 1",
+    "opts": [
+     "La etajul 1",
+     "La parter",
+     "La etajul 3"
+    ],
+    "q": "La ce etaj este apartamentul?",
+    "ru": "На каком этаже квартира?"
+   },
+   {
+    "a": "Fals",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? Chiria pentru apartament este mare.",
+    "ru": "Правда или ложь? Аренда за квартиру большая.",
+    "why": "«În plus, chiria **nu este mare**.»"
+   },
+   {
+    "a": "Adevărat",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? Apartamentul are balcon.",
+    "ru": "Правда или ложь? В квартире есть балкон.",
+    "why": "«Apartamentul este la etajul 1 și **are balcon**.»"
+   }
+  ],
+  "summary": "По тексту учебника, стр. 46–47: квартира Аи",
+  "title": "Camera mea"
+ },
+ {
+  "id": "universitatea",
+  "glossary": [
+   {
+    "ro": "centru universitar",
+    "ru": "университетский центр"
+   },
+   {
+    "ro": "de stat",
+    "ru": "государственный"
+   },
+   {
+    "ro": "particular",
+    "ru": "частный"
+   },
+   {
+    "ro": "a exista",
+    "ru": "существовать"
+   },
+   {
+    "ro": "înființare",
+    "ru": "основание"
+   },
+   {
+    "ro": "a cincea",
+    "ru": "пятый (пятая)"
+   },
+   {
+    "ro": "aproximativ",
+    "ru": "примерно"
+   },
+   {
+    "ro": "străin",
+    "ru": "иностранный, иностранец"
+   },
+   {
+    "ro": "lume",
+    "ru": "мир"
+   },
+   {
+    "ro": "cel mai vechi",
+    "ru": "самый старый"
+   },
+   {
+    "ro": "Drept",
+    "ru": "право (юриспруденция)"
+   },
+   {
+    "ro": "Litere",
+    "ru": "филология"
+   },
+   {
+    "ro": "secție",
+    "ru": "отделение"
+   },
+   {
+    "ro": "amfiteatru",
+    "ru": "аудитория-амфитеатр"
+   },
+   {
+    "ro": "laborator",
+    "ru": "лаборатория"
+   },
+   {
+    "ro": "bibliotecă",
+    "ru": "библиотека"
+   },
+   {
+    "ro": "mii de volume",
+    "ru": "тысячи томов"
+   },
+   {
+    "ro": "Anul pregătitor",
+    "ru": "подготовительный год"
+   },
+   {
+    "ro": "cetățean",
+    "ru": "гражданин"
+   },
+   {
+    "ro": "a vrea (vor)",
+    "ru": "хотеть (они хотят)"
+   },
+   {
+    "ro": "clădire principală",
+    "ru": "главное здание"
+   }
+  ],
+  "level": "A1–A2",
+  "n": 2,
+  "paragraphs": [
+   [
+    {
+     "ro": "Craiova este un centru universitar important din România.",
+     "ru": "Крайова — важный университетский центр Румынии."
+    },
+    {
+     "ro": "În oraș sunt două universități de stat și o universitate particulară.",
+     "ru": "В городе два государственных университета и один частный."
+    },
+    {
+     "ro": "Universitatea din Craiova este o universitate de stat.",
+     "ru": "Университет Крайовы — государственный."
+    },
+    {
+     "ro": "Ea există din anul 1947.",
+     "ru": "Он существует с 1947 года."
+    },
+    {
+     "ro": "După anul înființării, este a cincea universitate din România.",
+     "ru": "По году основания это пятый университет Румынии."
+    }
+   ],
+   [
+    {
+     "ro": "Astăzi universitatea are 12 facultăți.",
+     "ru": "Сегодня в университете 12 факультетов."
+    },
+    {
+     "ro": "Aici învață aproximativ 18.000 de studenți.",
+     "ru": "Здесь учатся примерно 18 000 студентов."
+    },
+    {
+     "ro": "La universitate sunt și mulți studenți străini.",
+     "ru": "В университете много иностранных студентов."
+    },
+    {
+     "ro": "Ei vin din multe țări ale lumii.",
+     "ru": "Они приезжают из многих стран мира."
+    },
+    {
+     "ro": "Cea mai veche facultate este Facultatea de Agronomie.",
+     "ru": "Самый старый факультет — агрономический."
+    },
+    {
+     "ro": "Alte facultăți sunt Facultatea de Drept, Facultatea de Mecanică și Facultatea de Litere.",
+     "ru": "Другие факультеты — юридический, механический и филологический."
+    }
+   ],
+   [
+    {
+     "ro": "La Facultatea de Litere sunt multe secții de limbi și literaturi străine.",
+     "ru": "На филологическом факультете много отделений иностранных языков и литератур."
+    },
+    {
+     "ro": "Acolo sunt amfiteatre mari, săli de curs și laboratoare.",
+     "ru": "Там есть большие аудитории-амфитеатры, учебные аудитории и лаборатории."
+    },
+    {
+     "ro": "Facultatea are și o bibliotecă cu mii de volume.",
+     "ru": "На факультете есть и библиотека с тысячами книг."
+    },
+    {
+     "ro": "Tot la Facultatea de Litere este și Anul pregătitor de limba română.",
+     "ru": "Там же, на филологическом факультете, проходит подготовительный год румынского языка."
+    },
+    {
+     "ro": "Aici învață cetățenii străini care vor să studieze în România.",
+     "ru": "Здесь учатся иностранные граждане, которые хотят учиться в Румынии."
+    }
+   ],
+   [
+    {
+     "ro": "Studenții străini au cursuri despre limba română.",
+     "ru": "У иностранных студентов есть курсы о румынском языке."
+    },
+    {
+     "ro": "Ei au și cursuri de cultură și civilizație românească.",
+     "ru": "Ещё у них есть курсы румынской культуры и цивилизации."
+    },
+    {
+     "ro": "Lecțiile practice de limba română sunt în fiecare zi.",
+     "ru": "Практические занятия по румынскому — каждый день."
+    },
+    {
+     "ro": "După un an, studenții vorbesc bine românește.",
+     "ru": "Через год студенты хорошо говорят по-румынски."
+    },
+    {
+     "ro": "Apoi ei merg la alte facultăți: medicină, inginerie sau economie.",
+     "ru": "Потом они переходят на другие факультеты: медицину, инженерию или экономику."
+    },
+    {
+     "ro": "Clădirea principală a universității este veche și foarte frumoasă.",
+     "ru": "Главное здание университета старое и очень красивое."
+    },
+    {
+     "ro": "Ea este în centrul orașului, pe o stradă mare.",
+     "ru": "Оно в центре города, на большой улице."
+    }
+   ]
+  ],
+  "questions": [
+   {
+    "a": "Două",
+    "opts": [
+     "Două",
+     "Una",
+     "Trei"
+    ],
+    "q": "Câte universități de stat sunt în Craiova?",
+    "ru": "Сколько государственных университетов в Крайове?"
+   },
+   {
+    "a": "De stat",
+    "opts": [
+     "De stat",
+     "Particulară",
+     "Străină"
+    ],
+    "q": "Ce fel de universitate este Universitatea din Craiova?",
+    "ru": "Какой это университет?"
+   },
+   {
+    "a": "1947",
+    "opts": [
+     "1947",
+     "1974",
+     "2007"
+    ],
+    "q": "Din ce an există universitatea?",
+    "ru": "С какого года существует университет?"
+   },
+   {
+    "a": "12",
+    "opts": [
+     "12",
+     "5",
+     "18"
+    ],
+    "q": "Câte facultăți are universitatea?",
+    "ru": "Сколько факультетов в университете?"
+   },
+   {
+    "a": "Aproximativ 18.000",
+    "opts": [
+     "Aproximativ 18.000",
+     "1.947",
+     "Aproximativ 12.000"
+    ],
+    "q": "Câți studenți învață aici?",
+    "ru": "Сколько здесь учится студентов?"
+   },
+   {
+    "a": "Facultatea de Agronomie",
+    "opts": [
+     "Facultatea de Agronomie",
+     "Facultatea de Litere",
+     "Facultatea de Drept"
+    ],
+    "q": "Care este cea mai veche facultate?",
+    "ru": "Какой факультет самый старый?"
+   },
+   {
+    "a": "Amfiteatre, săli de curs, laboratoare și o bibliotecă",
+    "opts": [
+     "Amfiteatre, săli de curs, laboratoare și o bibliotecă",
+     "Un spital",
+     "Un restaurant mare"
+    ],
+    "q": "Ce este la Facultatea de Litere?",
+    "ru": "Что есть на филологическом факультете?"
+   },
+   {
+    "a": "La Facultatea de Litere",
+    "opts": [
+     "La Facultatea de Litere",
+     "La Facultatea de Mecanică",
+     "La Facultatea de Agronomie"
+    ],
+    "q": "Unde este Anul pregătitor de limba română?",
+    "ru": "Где проходит подготовительный год?"
+   },
+   {
+    "a": "Fals",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? La universitate nu sunt studenți străini.",
+    "ru": "Правда или ложь? В университете нет иностранных студентов.",
+    "why": "«La universitate sunt și **mulți studenți străini**.»"
+   },
+   {
+    "a": "Adevărat",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? Clădirea principală este în centrul orașului.",
+    "ru": "Правда или ложь? Главное здание в центре города.",
+    "why": "«Ea este **în centrul orașului**, pe o stradă mare.»"
+   }
+  ],
+  "summary": "По тексту учебника, стр. 63: университет, факультеты, иностранные студенты",
+  "title": "Universitatea din Craiova"
+ },
+ {
+  "id": "lectia",
+  "glossary": [
+   {
+    "ro": "lună",
+    "ru": "месяц"
+   },
+   {
+    "ro": "anotimp",
+    "ru": "время года"
+   },
+   {
+    "ro": "prima zi",
+    "ru": "первый день"
+   },
+   {
+    "ro": "sală de curs",
+    "ru": "аудитория"
+   },
+   {
+    "ro": "bancă",
+    "ru": "парта; скамья"
+   },
+   {
+    "ro": "catedră",
+    "ru": "учительский стол"
+   },
+   {
+    "ro": "tablă",
+    "ru": "доска"
+   },
+   {
+    "ro": "cuier",
+    "ru": "вешалка"
+   },
+   {
+    "ro": "gri",
+    "ru": "серый"
+   },
+   {
+    "ro": "luminos",
+    "ru": "светлый"
+   },
+   {
+    "ro": "jaluzele",
+    "ru": "жалюзи"
+   },
+   {
+    "ro": "colorat",
+    "ru": "цветной"
+   },
+   {
+    "ro": "vază",
+    "ru": "ваза"
+   },
+   {
+    "ro": "calculator",
+    "ru": "компьютер"
+   },
+   {
+    "ro": "primul / ultimul",
+    "ru": "первый / последний"
+   },
+   {
+    "ro": "roman",
+    "ru": "роман"
+   },
+   {
+    "ro": "volum de poezii",
+    "ru": "сборник стихов"
+   },
+   {
+    "ro": "tradus",
+    "ru": "переведённый"
+   },
+   {
+    "ro": "atent",
+    "ru": "внимательный"
+   },
+   {
+    "ro": "manual",
+    "ru": "учебник"
+   },
+   {
+    "ro": "caiet",
+    "ru": "тетрадь"
+   },
+   {
+    "ro": "a repeta",
+    "ru": "повторять"
+   },
+   {
+    "ro": "pauza de masă",
+    "ru": "обеденный перерыв"
+   },
+   {
+    "ro": "a continua",
+    "ru": "продолжаться"
+   },
+   {
+    "ro": "până la",
+    "ru": "до"
+   }
+  ],
+  "level": "A1",
+  "n": 3,
+  "paragraphs": [
+   [
+    {
+     "ro": "Este luna octombrie și este toamnă.",
+     "ru": "Сейчас октябрь, осень."
+    },
+    {
+     "ro": "Este luni, prima zi de facultate la Anul pregătitor.",
+     "ru": "Понедельник, первый учебный день на подготовительном году."
+    },
+    {
+     "ro": "Este ora zece și doamna profesoară Anca Popescu este în sală.",
+     "ru": "Десять часов, и преподавательница Анка Попеску в аудитории."
+    },
+    {
+     "ro": "Studenții străini au curs de limba română în fiecare zi.",
+     "ru": "У иностранных студентов занятия по румынскому каждый день."
+    },
+    {
+     "ro": "În sala de curs sunt 23 de studenți: 12 studenți și 11 studente.",
+     "ru": "В аудитории 23 студента: 12 юношей и 11 девушек."
+    },
+    {
+     "ro": "Doi studenți sunt din Grecia, opt din Serbia, cinci din Albania, patru din Bulgaria și patru din Siria.",
+     "ru": "Двое студентов из Греции, восемь из Сербии, пятеро из Албании, четверо из Болгарии и четверо из Сирии."
+    }
+   ],
+   [
+    {
+     "ro": "Sala de curs este mare și luminoasă.",
+     "ru": "Аудитория большая и светлая."
+    },
+    {
+     "ro": "În sală sunt 12 bănci și 25 de scaune.",
+     "ru": "В аудитории 12 парт и 25 стульев."
+    },
+    {
+     "ro": "Mai sunt o catedră, o tablă și un cuier.",
+     "ru": "Ещё есть учительский стол, доска и вешалка."
+    },
+    {
+     "ro": "Sala are o ușă gri și trei ferestre mari.",
+     "ru": "В аудитории серая дверь и три больших окна."
+    },
+    {
+     "ro": "La ferestre sunt jaluzele albe.",
+     "ru": "На окнах белые жалюзи."
+    },
+    {
+     "ro": "Pe pereți sunt zece tablouri colorate și o hartă mare.",
+     "ru": "На стенах десять цветных картин и большая карта."
+    }
+   ],
+   [
+    {
+     "ro": "Pe catedră este o vază cu flori roșii și galbene.",
+     "ru": "На учительском столе ваза с красными и жёлтыми цветами."
+    },
+    {
+     "ro": "Tot pe catedră sunt calculatorul și niște dicționare.",
+     "ru": "Там же, на столе, компьютер и несколько словарей."
+    },
+    {
+     "ro": "În primul dulap sunt manuale de limba română.",
+     "ru": "В первом шкафу учебники румынского языка."
+    },
+    {
+     "ro": "În ultimul dulap sunt romane și volume de poezii.",
+     "ru": "В последнем шкафу романы и сборники стихов."
+    },
+    {
+     "ro": "Aceste cărți sunt traduse din română în multe limbi străine.",
+     "ru": "Эти книги переведены с румынского на многие иностранные языки."
+    }
+   ],
+   [
+    {
+     "ro": "La lecție studenții sunt foarte atenți.",
+     "ru": "На уроке студенты очень внимательны."
+    },
+    {
+     "ro": "Ei au manuale, dicționare, caiete, pixuri și creioane.",
+     "ru": "У них учебники, словари, тетради, ручки и карандаши."
+    },
+    {
+     "ro": "Doamna profesoară scrie cuvinte noi pe tablă.",
+     "ru": "Преподавательница пишет новые слова на доске."
+    },
+    {
+     "ro": "Studenții citesc și repetă cuvintele.",
+     "ru": "Студенты читают и повторяют слова."
+    },
+    {
+     "ro": "La ora douăsprezece este pauza de masă.",
+     "ru": "В двенадцать часов обеденный перерыв."
+    },
+    {
+     "ro": "După pauză, lecția continuă până la ora două.",
+     "ru": "После перерыва урок продолжается до двух часов."
+    }
+   ]
+  ],
+  "questions": [
+   {
+    "a": "Octombrie, toamnă",
+    "opts": [
+     "Octombrie, toamnă",
+     "Mai, primăvară",
+     "Ianuarie, iarnă"
+    ],
+    "q": "Ce lună și ce anotimp sunt acum?",
+    "ru": "Какой сейчас месяц и время года?"
+   },
+   {
+    "a": "12 bănci și 25 de scaune",
+    "opts": [
+     "12 bănci și 25 de scaune",
+     "25 de bănci și 12 scaune",
+     "10 bănci și 23 de scaune"
+    ],
+    "q": "Câte bănci și câte scaune sunt în sală?",
+    "ru": "Сколько парт и стульев в аудитории?"
+   },
+   {
+    "a": "Zece",
+    "opts": [
+     "Zece",
+     "Trei",
+     "Douăzeci și trei"
+    ],
+    "q": "Câte tablouri sunt pe pereți?",
+    "ru": "Сколько картин на стенах?"
+   },
+   {
+    "a": "Pe catedră",
+    "opts": [
+     "Pe catedră",
+     "În dulap",
+     "Pe raft"
+    ],
+    "q": "Unde este calculatorul?",
+    "ru": "Где компьютер?"
+   },
+   {
+    "a": "La ora zece",
+    "opts": [
+     "La ora zece",
+     "La ora douăsprezece",
+     "La ora două"
+    ],
+    "q": "La ce oră începe cursul de limba română?",
+    "ru": "Во сколько начинается урок румынского?"
+   },
+   {
+    "a": "23",
+    "opts": [
+     "23",
+     "12",
+     "11"
+    ],
+    "q": "Câți studenți sunt în sala de curs?",
+    "ru": "Сколько студентов в аудитории?"
+   },
+   {
+    "a": "Din Serbia",
+    "opts": [
+     "Din Serbia",
+     "Din Grecia",
+     "Din Siria"
+    ],
+    "q": "Din ce țară sunt cei mai mulți studenți?",
+    "ru": "Из какой страны больше всего студентов?",
+    "why": "8 студентов — из Сербии."
+   },
+   {
+    "a": "Manuale, dicționare, caiete, pixuri și creioane",
+    "opts": [
+     "Manuale, dicționare, caiete, pixuri și creioane",
+     "Doar telefoane",
+     "Flori și tablouri"
+    ],
+    "q": "Ce obiecte au studenții la lecție?",
+    "ru": "Что у студентов на уроке?"
+   },
+   {
+    "a": "La ora douăsprezece",
+    "opts": [
+     "La ora douăsprezece",
+     "La ora zece",
+     "La ora unu"
+    ],
+    "q": "La ce oră este pauza de masă?",
+    "ru": "Во сколько обеденный перерыв?"
+   },
+   {
+    "a": "Fals",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? În ultimul dulap sunt manuale de limba română.",
+    "ru": "Правда или ложь? В последнем шкафу учебники румынского.",
+    "why": "Учебники — в **первом** шкафу, а в последнем — романы и стихи."
+   }
+  ],
+  "summary": "По тексту учебника, стр. 79–80: аудитория и урок",
+  "title": "La lecția de limba română"
+ },
+ {
+  "id": "curs",
+  "glossary": [
+   {
+    "ro": "mă numesc",
+    "ru": "меня зовут"
+   },
+   {
+    "ro": "acum",
+    "ru": "сейчас"
+   },
+   {
+    "ro": "a locui (locuiesc)",
+    "ru": "жить"
+   },
+   {
+    "ro": "centrul orașului",
+    "ru": "центр города"
+   },
+   {
+    "ro": "a începe",
+    "ru": "начинаться"
+   },
+   {
+    "ro": "diferit",
+    "ru": "разный"
+   },
+   {
+    "ro": "amabil, amabilă",
+    "ru": "любезный, приветливый"
+   },
+   {
+    "ro": "cel mai tânăr",
+    "ru": "самый молодой"
+   },
+   {
+    "ro": "a intra",
+    "ru": "входить"
+   },
+   {
+    "ro": "a răspunde",
+    "ru": "отвечать"
+   },
+   {
+    "ro": "numai",
+    "ru": "только"
+   },
+   {
+    "ro": "greu",
+    "ru": "трудно"
+   },
+   {
+    "ro": "după",
+    "ru": "после"
+   },
+   {
+    "ro": "împreună",
+    "ru": "вместе"
+   },
+   {
+    "ro": "deja",
+    "ru": "уже"
+   }
+  ],
+  "level": "A1",
+  "n": 4,
+  "paragraphs": [
+   [
+    {
+     "ro": "Mă numesc Ana și sunt din Rusia, din Moscova.",
+     "ru": "Меня зовут Ана, я из России, из Москвы."
+    },
+    {
+     "ro": "Acum locuiesc în România, în Craiova.",
+     "ru": "Сейчас я живу в Румынии, в Крайове."
+    },
+    {
+     "ro": "Sunt studentă la cursul de limba română.",
+     "ru": "Я студентка на курсе румынского языка."
+    },
+    {
+     "ro": "Cursul este la universitate, în centrul orașului.",
+     "ru": "Курс проходит в университете, в центре города."
+    },
+    {
+     "ro": "Lecția începe la ora nouă dimineața.",
+     "ru": "Урок начинается в девять часов утра."
+    }
+   ],
+   [
+    {
+     "ro": "În clasă suntem zece studenți.",
+     "ru": "В классе нас десять студентов."
+    },
+    {
+     "ro": "Colegii mei sunt din țări diferite.",
+     "ru": "Мои однокурсники из разных стран."
+    },
+    {
+     "ro": "Mario este italian, din Roma.",
+     "ru": "Марио — итальянец, из Рима."
+    },
+    {
+     "ro": "Sanja este sârboaică, din Belgrad.",
+     "ru": "Саня — сербка, из Белграда."
+    },
+    {
+     "ro": "Fadi este din Siria și vorbește arabă și engleză.",
+     "ru": "Фади из Сирии, он говорит по-арабски и по-английски."
+    },
+    {
+     "ro": "Mia este din China.",
+     "ru": "Мия из Китая."
+    },
+    {
+     "ro": "Ea este chinezoaică și este foarte amabilă.",
+     "ru": "Она китаянка и очень любезная."
+    },
+    {
+     "ro": "George este grec.",
+     "ru": "Джордж — грек."
+    },
+    {
+     "ro": "El are douăzeci de ani și este cel mai tânăr din clasă.",
+     "ru": "Ему двадцать лет, он самый молодой в классе."
+    }
+   ],
+   [
+    {
+     "ro": "Profesoara noastră se numește doamna Popescu.",
+     "ru": "Нашу преподавательницу зовут госпожа Попеску."
+    },
+    {
+     "ro": "Ea este româncă, din București.",
+     "ru": "Она румынка, из Бухареста."
+    },
+    {
+     "ro": "Când intră în clasă, ea spune: „Bună dimineața! Bine ați venit!”",
+     "ru": "Когда она входит в класс, она говорит: «Доброе утро! Добро пожаловать!»"
+    },
+    {
+     "ro": "Noi răspundem: „Bine v-am găsit!”",
+     "ru": "Мы отвечаем: «Рады вас видеть!»"
+    },
+    {
+     "ro": "La curs vorbim numai românește.",
+     "ru": "На курсе мы говорим только по-румынски."
+    },
+    {
+     "ro": "Este greu, dar este și foarte interesant.",
+     "ru": "Это трудно, но и очень интересно."
+    }
+   ],
+   [
+    {
+     "ro": "După lecție, bem o cafea împreună.",
+     "ru": "После урока мы вместе пьём кофе."
+    },
+    {
+     "ro": "Eu și Sanja suntem deja prietene.",
+     "ru": "Мы с Саней уже подруги."
+    },
+    {
+     "ro": "La ora unu spunem „La revedere!” și „Pe mâine!”.",
+     "ru": "В час дня мы говорим «До свидания!» и «До завтра!»."
+    }
+   ]
+  ],
+  "questions": [
+   {
+    "a": "Din Rusia",
+    "opts": [
+     "Din Rusia",
+     "Din România",
+     "Din Italia"
+    ],
+    "q": "De unde este Ana?",
+    "ru": "Откуда Ана?"
+   },
+   {
+    "a": "În Craiova",
+    "opts": [
+     "În Craiova",
+     "În Moscova",
+     "În București"
+    ],
+    "q": "Unde locuiește Ana acum?",
+    "ru": "Где Ана живёт сейчас?"
+   },
+   {
+    "a": "La ora nouă",
+    "opts": [
+     "La ora nouă",
+     "La ora unu",
+     "La ora zece"
+    ],
+    "q": "La ce oră începe lecția?",
+    "ru": "Во сколько начинается урок?"
+   },
+   {
+    "a": "Zece",
+    "opts": [
+     "Zece",
+     "Doi",
+     "Douăzeci"
+    ],
+    "q": "Câți studenți sunt în clasă?",
+    "ru": "Сколько студентов в классе?"
+   },
+   {
+    "a": "Arabă și engleză",
+    "opts": [
+     "Arabă și engleză",
+     "Italiană și greacă",
+     "Chineză și rusă"
+    ],
+    "q": "Ce limbi vorbește Fadi?",
+    "ru": "На каких языках говорит Фади?"
+   },
+   {
+    "a": "chinezoaică",
+    "opts": [
+     "chinezoaică",
+     "sârboaică",
+     "româncă"
+    ],
+    "q": "Mia este…",
+    "ru": "Мия — …"
+   },
+   {
+    "a": "Doamna Popescu",
+    "opts": [
+     "Doamna Popescu",
+     "Sanja",
+     "Mia"
+    ],
+    "q": "Cum se numește profesoara?",
+    "ru": "Как зовут преподавательницу?"
+   },
+   {
+    "a": "Bine v-am găsit!",
+    "opts": [
+     "Bine v-am găsit!",
+     "Cu plăcere!",
+     "Noapte bună!"
+    ],
+    "q": "Ce răspund studenții la „Bine ați venit!”?",
+    "ru": "Что отвечают студенты на «Добро пожаловать!»?"
+   },
+   {
+    "a": "Fals",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? La curs studenții vorbesc rusește.",
+    "ru": "Правда или ложь? На курсе студенты говорят по-русски.",
+    "why": "«La curs vorbim **numai românește**.»"
+   },
+   {
+    "a": "Adevărat",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? Ana și Sanja sunt prietene.",
+    "ru": "Правда или ложь? Ана и Саня — подруги.",
+    "why": "«Eu și Sanja suntem **deja prietene**.»"
+   }
+  ],
+  "summary": "Знакомство с группой: страны, национальности, a fi",
+  "title": "La cursul de limba română"
+ },
+ {
+  "id": "familia",
+  "glossary": [
+   {
+    "ro": "soție",
+    "ru": "жена"
+   },
+   {
+    "ro": "liceu",
+    "ru": "лицей (старшая школа)"
+   },
+   {
+    "ro": "inginer",
+    "ru": "инженер"
+   },
+   {
+    "ro": "firmă",
+    "ru": "фирма, компания"
+   },
+   {
+    "ro": "clasa a doua",
+    "ru": "второй класс"
+   },
+   {
+    "ro": "grădiniță",
+    "ru": "детский сад"
+   },
+   {
+    "ro": "luminos",
+    "ru": "светлый"
+   },
+   {
+    "ro": "acolo",
+    "ru": "там"
+   },
+   {
+    "ro": "toți",
+    "ru": "все"
+   },
+   {
+    "ro": "părinți",
+    "ru": "родители"
+   },
+   {
+    "ro": "la țară",
+    "ru": "в деревне"
+   },
+   {
+    "ro": "lângă",
+    "ru": "рядом с"
+   },
+   {
+    "ro": "vechi, veche",
+    "ru": "старый, старая"
+   },
+   {
+    "ro": "măr / păr / cireș",
+    "ru": "яблоня / груша / черешня (дерево)"
+   },
+   {
+    "ro": "bunici",
+    "ru": "бабушка и дедушка"
+   },
+   {
+    "ro": "fericit",
+    "ru": "счастливый"
+   },
+   {
+    "ro": "a ajuta",
+    "ru": "помогать"
+   },
+   {
+    "ro": "a sta la masă",
+    "ru": "сидеть за столом"
+   },
+   {
+    "ro": "a iubi",
+    "ru": "любить"
+   }
+  ],
+  "level": "A1",
+  "n": 5,
+  "paragraphs": [
+   [
+    {
+     "ro": "Eu sunt Mihai și am treizeci de ani.",
+     "ru": "Я Михай, мне тридцать лет."
+    },
+    {
+     "ro": "Sunt român și locuiesc în București.",
+     "ru": "Я румын и живу в Бухаресте."
+    },
+    {
+     "ro": "Am o familie mare.",
+     "ru": "У меня большая семья."
+    },
+    {
+     "ro": "Soția mea se numește Elena.",
+     "ru": "Мою жену зовут Елена."
+    },
+    {
+     "ro": "Ea este profesoară de engleză la un liceu.",
+     "ru": "Она учительница английского в лицее."
+    },
+    {
+     "ro": "Eu sunt inginer și lucrez la o firmă.",
+     "ru": "Я инженер и работаю в фирме."
+    }
+   ],
+   [
+    {
+     "ro": "Avem doi copii: un băiat și o fată.",
+     "ru": "У нас двое детей: мальчик и девочка."
+    },
+    {
+     "ro": "Băiatul se numește Andrei și are opt ani.",
+     "ru": "Мальчика зовут Андрей, ему восемь лет."
+    },
+    {
+     "ro": "El este elev în clasa a doua.",
+     "ru": "Он ученик второго класса."
+    },
+    {
+     "ro": "Fata se numește Ioana și are patru ani.",
+     "ru": "Девочку зовут Иоана, ей четыре года."
+    },
+    {
+     "ro": "Ea merge la grădiniță.",
+     "ru": "Она ходит в детский сад."
+    },
+    {
+     "ro": "Avem și un câine, Rex, și o pisică albă.",
+     "ru": "У нас есть ещё собака Рекс и белая кошка."
+    }
+   ],
+   [
+    {
+     "ro": "Locuim într-un apartament cu trei camere.",
+     "ru": "Мы живём в трёхкомнатной квартире."
+    },
+    {
+     "ro": "Apartamentul este mic, dar frumos și luminos.",
+     "ru": "Квартира маленькая, но красивая и светлая."
+    },
+    {
+     "ro": "Bucătăria este mare și acolo mâncăm toți împreună.",
+     "ru": "Кухня большая, и там мы все вместе едим."
+    }
+   ],
+   [
+    {
+     "ro": "Părinții mei locuiesc la țară, lângă Brașov.",
+     "ru": "Мои родители живут в деревне, рядом с Брашовом."
+    },
+    {
+     "ro": "Ei au o casă veche și o grădină cu pomi.",
+     "ru": "У них старый дом и сад с деревьями."
+    },
+    {
+     "ro": "În grădină sunt meri, peri și cireși.",
+     "ru": "В саду растут яблони, груши и черешни."
+    },
+    {
+     "ro": "Vara mergem la bunici în fiecare weekend.",
+     "ru": "Летом мы каждые выходные ездим к бабушке и дедушке."
+    },
+    {
+     "ro": "Copiii sunt fericiți acolo.",
+     "ru": "Дети там счастливы."
+    },
+    {
+     "ro": "Andrei joacă fotbal cu bunicul.",
+     "ru": "Андрей играет в футбол с дедушкой."
+    },
+    {
+     "ro": "Ioana ajută bunica în bucătărie.",
+     "ru": "Иоана помогает бабушке на кухне."
+    },
+    {
+     "ro": "Seara stăm toți la masă și vorbim mult.",
+     "ru": "Вечером мы все сидим за столом и много разговариваем."
+    },
+    {
+     "ro": "Îmi iubesc familia!",
+     "ru": "Я люблю свою семью!"
+    }
+   ]
+  ],
+  "questions": [
+   {
+    "a": "Treizeci",
+    "opts": [
+     "Treizeci",
+     "Opt",
+     "Patru"
+    ],
+    "q": "Câți ani are Mihai?",
+    "ru": "Сколько лет Михаю?"
+   },
+   {
+    "a": "Este profesoară",
+    "opts": [
+     "Este profesoară",
+     "Este inginer",
+     "Este medic"
+    ],
+    "q": "Ce lucrează Elena?",
+    "ru": "Кем работает Елена?"
+   },
+   {
+    "a": "Doi",
+    "opts": [
+     "Doi",
+     "Trei",
+     "Unul"
+    ],
+    "q": "Câți copii au Mihai și Elena?",
+    "ru": "Сколько детей у Михая и Елены?"
+   },
+   {
+    "a": "Ioana",
+    "opts": [
+     "Ioana",
+     "Elena",
+     "Ana"
+    ],
+    "q": "Cum se numește fata?",
+    "ru": "Как зовут девочку?"
+   },
+   {
+    "a": "La grădiniță",
+    "opts": [
+     "La grădiniță",
+     "La școală",
+     "La liceu"
+    ],
+    "q": "Unde merge Ioana?",
+    "ru": "Куда ходит Иоана?"
+   },
+   {
+    "a": "Trei",
+    "opts": [
+     "Trei",
+     "Două",
+     "Patru"
+    ],
+    "q": "Câte camere are apartamentul?",
+    "ru": "Сколько комнат в квартире?"
+   },
+   {
+    "a": "La țară, lângă Brașov",
+    "opts": [
+     "La țară, lângă Brașov",
+     "În București",
+     "La mare"
+    ],
+    "q": "Unde locuiesc părinții lui Mihai?",
+    "ru": "Где живут родители Михая?"
+   },
+   {
+    "a": "Meri, peri și cireși",
+    "opts": [
+     "Meri, peri și cireși",
+     "Flori și trandafiri",
+     "Cartofi și varză"
+    ],
+    "q": "Ce este în grădina bunicilor?",
+    "ru": "Что растёт в саду у бабушки и дедушки?"
+   },
+   {
+    "a": "Adevărat",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? Familia are un câine și o pisică.",
+    "ru": "Правда или ложь? У семьи есть собака и кошка.",
+    "why": "«Avem și **un câine**, Rex, și **o pisică** albă.»"
+   },
+   {
+    "a": "Fals",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? Apartamentul este mare.",
+    "ru": "Правда или ложь? Квартира большая.",
+    "why": "«Apartamentul este **mic**, dar frumos și luminos.»"
+   }
+  ],
+  "summary": "Семья, дом, возраст: a avea, артикли, множественное число",
+  "title": "Familia mea"
+ },
+ {
+  "id": "zi",
+  "glossary": [
+   {
+    "ro": "a se trezi (mă trezesc)",
+    "ru": "просыпаться"
+   },
+   {
+    "ro": "mai întâi",
+    "ru": "сначала"
+   },
+   {
+    "ro": "unt",
+    "ru": "сливочное масло"
+   },
+   {
+    "ro": "apoi",
+    "ru": "потом"
+   },
+   {
+    "ro": "a se îmbrăca",
+    "ru": "одеваться"
+   },
+   {
+    "ro": "drum",
+    "ru": "дорога"
+   },
+   {
+    "ro": "a dura",
+    "ru": "длиться"
+   },
+   {
+    "ro": "client",
+    "ru": "клиент"
+   },
+   {
+    "ro": "la prânz",
+    "ru": "в обед"
+   },
+   {
+    "ro": "de obicei",
+    "ru": "обычно"
+   },
+   {
+    "ro": "a comanda",
+    "ru": "заказывать"
+   },
+   {
+    "ro": "a termina",
+    "ru": "заканчивать"
+   },
+   {
+    "ro": "serviciu",
+    "ru": "работа (место работы)"
+   },
+   {
+    "ro": "piață",
+    "ru": "рынок"
+   },
+   {
+    "ro": "legume",
+    "ru": "овощи"
+   },
+   {
+    "ro": "cină",
+    "ru": "ужин"
+   },
+   {
+    "ro": "a se uita la",
+    "ru": "смотреть (на что-то)"
+   },
+   {
+    "ro": "uneori",
+    "ru": "иногда"
+   },
+   {
+    "ro": "a suna",
+    "ru": "звонить"
+   },
+   {
+    "ro": "sală",
+    "ru": "спортзал"
+   },
+   {
+    "ro": "îmi place",
+    "ru": "мне нравится"
+   },
+   {
+    "ro": "a face curat",
+    "ru": "убираться"
+   },
+   {
+    "ro": "a se plimba",
+    "ru": "гулять"
+   },
+   {
+    "ro": "a se culca",
+    "ru": "ложиться спать"
+   },
+   {
+    "ro": "marțea, joia, sâmbăta, duminica",
+    "ru": "по вторникам, четвергам, субботам, воскресеньям"
+   }
+  ],
+  "level": "A1–A2",
+  "n": 6,
+  "paragraphs": [
+   [
+    {
+     "ro": "Mă numesc Laura și sunt din Craiova.",
+     "ru": "Меня зовут Лаура, я из Крайовы."
+    },
+    {
+     "ro": "Lucrez la o bancă în centrul orașului.",
+     "ru": "Я работаю в банке в центре города."
+    },
+    {
+     "ro": "În fiecare zi mă trezesc la ora șapte.",
+     "ru": "Каждый день я просыпаюсь в семь часов."
+    },
+    {
+     "ro": "Mai întâi beau o cafea și mănânc pâine cu unt și miere.",
+     "ru": "Сначала я пью кофе и ем хлеб с маслом и мёдом."
+    },
+    {
+     "ro": "Apoi mă îmbrac și plec de acasă la ora opt.",
+     "ru": "Потом я одеваюсь и в восемь ухожу из дома."
+    },
+    {
+     "ro": "Merg la birou cu autobuzul.",
+     "ru": "Я езжу в офис на автобусе."
+    },
+    {
+     "ro": "Drumul durează douăzeci de minute.",
+     "ru": "Дорога занимает двадцать минут."
+    }
+   ],
+   [
+    {
+     "ro": "La birou lucrez la calculator și vorbesc cu clienții.",
+     "ru": "В офисе я работаю за компьютером и разговариваю с клиентами."
+    },
+    {
+     "ro": "Colegii mei sunt simpatici și amabili.",
+     "ru": "Мои коллеги симпатичные и любезные."
+    },
+    {
+     "ro": "La prânz mâncăm împreună la un restaurant mic.",
+     "ru": "В обед мы вместе едим в маленьком ресторане."
+    },
+    {
+     "ro": "De obicei comand o ciorbă și o salată.",
+     "ru": "Обычно я заказываю чорбу и салат."
+    },
+    {
+     "ro": "Termin lucrul la ora cinci după-amiaza.",
+     "ru": "Я заканчиваю работу в пять часов дня."
+    }
+   ],
+   [
+    {
+     "ro": "După serviciu merg la piață sau la supermarket.",
+     "ru": "После работы я иду на рынок или в супермаркет."
+    },
+    {
+     "ro": "Cumpăr legume, fructe și pâine.",
+     "ru": "Я покупаю овощи, фрукты и хлеб."
+    },
+    {
+     "ro": "Acasă gătesc cina.",
+     "ru": "Дома я готовлю ужин."
+    },
+    {
+     "ro": "Seara citesc o carte sau mă uit la un film.",
+     "ru": "Вечером я читаю книгу или смотрю фильм."
+    },
+    {
+     "ro": "Uneori sun părinții sau o prietenă.",
+     "ru": "Иногда я звоню родителям или подруге."
+    }
+   ],
+   [
+    {
+     "ro": "Marțea și joia merg la sală.",
+     "ru": "По вторникам и четвергам я хожу в спортзал."
+    },
+    {
+     "ro": "Îmi place sportul, dar nu am mult timp.",
+     "ru": "Мне нравится спорт, но у меня мало времени."
+    },
+    {
+     "ro": "Sâmbăta dorm mult și fac curat în casă.",
+     "ru": "По субботам я долго сплю и убираюсь дома."
+    },
+    {
+     "ro": "Duminica mă plimb în parc cu prietenii.",
+     "ru": "По воскресеньям я гуляю в парке с друзьями."
+    },
+    {
+     "ro": "La ora unsprezece seara mă culc.",
+     "ru": "В одиннадцать вечера я ложусь спать."
+    },
+    {
+     "ro": "Viața mea este simplă, dar îmi place.",
+     "ru": "Моя жизнь простая, но она мне нравится."
+    }
+   ]
+  ],
+  "questions": [
+   {
+    "a": "La o bancă",
+    "opts": [
+     "La o bancă",
+     "La o școală",
+     "La un restaurant"
+    ],
+    "q": "Unde lucrează Laura?",
+    "ru": "Где работает Лаура?"
+   },
+   {
+    "a": "La ora șapte",
+    "opts": [
+     "La ora șapte",
+     "La ora opt",
+     "La ora cinci"
+    ],
+    "q": "La ce oră se trezește Laura?",
+    "ru": "Во сколько просыпается Лаура?"
+   },
+   {
+    "a": "Pâine cu unt și miere",
+    "opts": [
+     "Pâine cu unt și miere",
+     "Ciorbă și salată",
+     "Fructe"
+    ],
+    "q": "Ce mănâncă dimineața?",
+    "ru": "Что она ест утром?"
+   },
+   {
+    "a": "Cu autobuzul",
+    "opts": [
+     "Cu autobuzul",
+     "Pe jos",
+     "Cu mașina"
+    ],
+    "q": "Cum merge Laura la birou?",
+    "ru": "Как Лаура добирается до офиса?"
+   },
+   {
+    "a": "Douăzeci de minute",
+    "opts": [
+     "Douăzeci de minute",
+     "O oră",
+     "Cinci minute"
+    ],
+    "q": "Cât durează drumul?",
+    "ru": "Сколько длится дорога?"
+   },
+   {
+    "a": "Merge la piață sau la supermarket",
+    "opts": [
+     "Merge la piață sau la supermarket",
+     "Merge la sală",
+     "Doarme"
+    ],
+    "q": "Ce face Laura după serviciu?",
+    "ru": "Что делает Лаура после работы?"
+   },
+   {
+    "a": "Marțea și joia",
+    "opts": [
+     "Marțea și joia",
+     "Sâmbăta",
+     "În fiecare zi"
+    ],
+    "q": "Când merge Laura la sală?",
+    "ru": "Когда Лаура ходит в спортзал?"
+   },
+   {
+    "a": "Se plimbă în parc cu prietenii",
+    "opts": [
+     "Se plimbă în parc cu prietenii",
+     "Lucrează la bancă",
+     "Face curat în casă"
+    ],
+    "q": "Ce face Laura duminica?",
+    "ru": "Что Лаура делает по воскресеньям?"
+   },
+   {
+    "a": "Fals",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? La prânz Laura mănâncă singură acasă.",
+    "ru": "Правда или ложь? В обед Лаура ест одна дома.",
+    "why": "«La prânz mâncăm **împreună la un restaurant** mic.»"
+   },
+   {
+    "a": "Adevărat",
+    "opts": [
+     "Adevărat",
+     "Fals"
+    ],
+    "q": "Adevărat sau fals? Laura se culcă la ora unsprezece.",
+    "ru": "Правда или ложь? Лаура ложится спать в одиннадцать.",
+    "why": "«La ora **unsprezece** seara mă culc.»"
+   }
+  ],
+  "summary": "Распорядок дня: время, глаголы в настоящем времени",
+  "title": "O zi obișnuită"
+ }
+]

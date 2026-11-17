@@ -1,0 +1,1414 @@
+[
+ {
+  "id": "buna",
+  "ex": "___, Ana! Ce faci?",
+  "exForm": "Bună",
+  "exRu": "Привет, Ана! Как дела?",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 35,
+  "ro": "bună",
+  "ru": "привет (неформально)"
+ },
+ {
+  "id": "salut",
+  "ex": "___! Ce mai faci, Andrei?",
+  "exForm": "Salut",
+  "exRu": "Привет! Как поживаешь, Андрей?",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 36,
+  "ro": "salut",
+  "ru": "привет; пока"
+ },
+ {
+  "id": "buna-dimineata",
+  "ex": "E ora opt. ___!",
+  "exForm": "Bună dimineața",
+  "exRu": "Сейчас восемь утра. Доброе утро!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 37,
+  "ro": "bună dimineața",
+  "ru": "доброе утро (6–11 ч)"
+ },
+ {
+  "id": "buna-ziua",
+  "ex": "E ora două după-amiaza. ___!",
+  "exForm": "Bună ziua",
+  "exRu": "Сейчас два часа дня. Добрый день!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 38,
+  "ro": "bună ziua",
+  "ru": "добрый день (11–17 ч)"
+ },
+ {
+  "id": "buna-seara",
+  "ex": "E ora 20:00. ___!",
+  "exForm": "Bună seara",
+  "exRu": "Сейчас 20:00. Добрый вечер!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 39,
+  "ro": "bună seara",
+  "ru": "добрый вечер (17–22 ч)"
+ },
+ {
+  "id": "la-revedere",
+  "ex": "___, doamnă! O zi bună!",
+  "exForm": "La revedere",
+  "exRu": "До свидания, госпожа! Хорошего дня!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 40,
+  "ro": "la revedere",
+  "ru": "до свидания"
+ },
+ {
+  "id": "pe-maine",
+  "ex": "Lecția continuă mâine. ___!",
+  "exForm": "Pe mâine",
+  "exRu": "Урок продолжится завтра. До завтра!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 41,
+  "ro": "pe mâine",
+  "ru": "до завтра"
+ },
+ {
+  "id": "pe-curand",
+  "ex": "Ne vedem în curând. ___!",
+  "exForm": "Pe curând",
+  "exRu": "Скоро увидимся. До скорого!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 42,
+  "ro": "pe curând",
+  "ru": "до скорого"
+ },
+ {
+  "id": "pa",
+  "ex": "___, mamă! Plec la școală.",
+  "exForm": "Pa",
+  "exRu": "Пока, мама! Я в школу.",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 43,
+  "ro": "pa",
+  "ru": "пока"
+ },
+ {
+  "id": "somn-usor",
+  "ex": "Noapte bună și ___!",
+  "exRu": "Спокойной ночи и сладкого сна!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 44,
+  "ro": "somn ușor",
+  "ru": "спокойного сна"
+ },
+ {
+  "id": "vise-placute",
+  "ex": "Noapte bună! ___!",
+  "exForm": "Vise plăcute",
+  "exRu": "Спокойной ночи! Приятных снов!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 45,
+  "ro": "vise plăcute",
+  "ru": "приятных снов"
+ },
+ {
+  "id": "sarut-mana",
+  "ex": "___, doamnă profesoară!",
+  "exForm": "Sărut mâna",
+  "exRu": "Здравствуйте (целую руку), госпожа учительница!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 46,
+  "ro": "sărut mâna",
+  "ru": "целую руку (вежливое приветствие старшим)"
+ },
+ {
+  "id": "o-zi-placuta",
+  "ex": "La revedere și ___!",
+  "exRu": "До свидания и хорошего дня!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 47,
+  "ro": "o zi plăcută",
+  "ru": "хорошего дня"
+ },
+ {
+  "id": "bine-ati-venit",
+  "ex": "___ în România!",
+  "exForm": "Bine ați venit",
+  "exRu": "Добро пожаловать в Румынию!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 48,
+  "ro": "bine ați venit",
+  "ru": "добро пожаловать (вам)"
+ },
+ {
+  "id": "bine-ai-venit",
+  "ex": "Andrei, ___ acasă!",
+  "exRu": "Андрей, с возвращением домой!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 49,
+  "ro": "bine ai venit",
+  "ru": "добро пожаловать (тебе)"
+ },
+ {
+  "id": "bine-v-am-gasit",
+  "ex": "— Bine ați venit! — ___!",
+  "exForm": "Bine v-am găsit",
+  "exRu": "— Добро пожаловать! — Рады вас видеть!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 50,
+  "ro": "bine v-am găsit",
+  "ru": "рад(а) вас видеть (ответ на «Bine ați venit!»)"
+ },
+ {
+  "id": "multumesc",
+  "ex": "___ pentru cadou!",
+  "exForm": "Mulțumesc",
+  "exRu": "Спасибо за подарок!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 51,
+  "ro": "mulțumesc",
+  "ru": "спасибо"
+ },
+ {
+  "id": "cu-placere",
+  "ex": "— Mulțumesc! — ___!",
+  "exForm": "Cu plăcere",
+  "exRu": "— Спасибо! — Пожалуйста!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 52,
+  "ro": "cu plăcere",
+  "ru": "пожалуйста (в ответ на спасибо)"
+ },
+ {
+  "id": "te-rog",
+  "ex": "Dă-mi apa, ___!",
+  "exRu": "Дай мне воду, пожалуйста!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 53,
+  "ro": "te rog",
+  "ru": "пожалуйста (просьба, на «ты»)"
+ },
+ {
+  "id": "va-rog",
+  "ex": "Doamnă, o cafea, ___!",
+  "exRu": "Госпожа, кофе, пожалуйста!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 54,
+  "ro": "vă rog",
+  "ru": "пожалуйста (просьба, на «вы»)"
+ },
+ {
+  "id": "scuzati-ma",
+  "ex": "___, unde este gara?",
+  "exForm": "Scuzați-mă",
+  "exRu": "Извините, где вокзал?",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 55,
+  "ro": "scuzați-mă",
+  "ru": "извините (меня)"
+ },
+ {
+  "id": "imi-pare-rau",
+  "ex": "___, nu știu.",
+  "exForm": "Îmi pare rău",
+  "exRu": "Простите, я не знаю.",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 56,
+  "ro": "îmi pare rău",
+  "ru": "мне жаль, простите"
+ },
+ {
+  "id": "imi-pare-bine",
+  "ex": "— Eu sunt Ana. — ___! Eu sunt Mihai.",
+  "exForm": "Îmi pare bine",
+  "exRu": "— Я Ана. — Приятно познакомиться! Я Михай.",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 57,
+  "ro": "îmi pare bine",
+  "ru": "приятно познакомиться"
+ },
+ {
+  "id": "si-mie",
+  "ex": "— Îmi pare bine! — ___!",
+  "exForm": "Și mie",
+  "exRu": "— Приятно познакомиться! — Мне тоже!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 58,
+  "ro": "și mie",
+  "ru": "мне тоже"
+ },
+ {
+  "id": "noroc",
+  "ex": "Ridicăm paharele: ___!",
+  "exRu": "Поднимаем бокалы: будем здоровы!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 59,
+  "ro": "noroc",
+  "ru": "удачи; будем здоровы (тост)"
+ },
+ {
+  "id": "de-unde",
+  "ex": "___ sunteți?",
+  "exForm": "De unde",
+  "exRu": "Откуда вы?",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 60,
+  "ro": "de unde",
+  "ru": "откуда"
+ },
+ {
+  "id": "curs",
+  "ex": "Suntem la ___ de limba română.",
+  "exForm": "cursul",
+  "exRu": "Мы на курсе румынского языка.",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 61,
+  "ro": "curs",
+  "ru": "курс"
+ },
+ {
+  "id": "clasa",
+  "ex": "În ___ sunt zece studenți.",
+  "exRu": "В классе десять студентов.",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 62,
+  "ro": "clasă",
+  "ru": "класс"
+ },
+ {
+  "id": "profesor",
+  "ex": "___ nostru este din București.",
+  "exForm": "Profesorul",
+  "exRu": "Наш преподаватель из Бухареста.",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 63,
+  "ro": "profesor",
+  "ru": "преподаватель, учитель"
+ },
+ {
+  "id": "profesoara",
+  "ex": "Ea este ___ de română.",
+  "exRu": "Она преподаватель румынского.",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 64,
+  "ro": "profesoară",
+  "ru": "преподавательница, учительница"
+ },
+ {
+  "id": "limba",
+  "ex": "Învăț ___ română.",
+  "exForm": "limba",
+  "exRu": "Я учу румынский язык.",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 65,
+  "ro": "limbă",
+  "ru": "язык"
+ },
+ {
+  "id": "oaspete",
+  "alt": [
+   "oaspeți"
+  ],
+  "ex": "Ne bucurăm să vă avem ___!",
+  "exForm": "oaspeți",
+  "exRu": "Мы рады вам, гости!",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 66,
+  "ro": "oaspete",
+  "ru": "гость"
+ },
+ {
+  "id": "dumneavoastra",
+  "ex": "___ cine sunteți?",
+  "exForm": "Dumneavoastră",
+  "exRu": "А вы кто?",
+  "lesson": "Bine ați venit! · стр. 25–29",
+  "n": 67,
+  "ro": "dumneavoastră",
+  "ru": "вы (вежливо)"
+ },
+ {
+  "id": "avion",
+  "ex": "Mergem la Paris cu ___.",
+  "exForm": "avionul",
+  "exRu": "Мы летим в Париж на самолёте.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 1,
+  "ro": "avion",
+  "ru": "самолёт"
+ },
+ {
+  "id": "apa",
+  "ex": "Vreau un pahar cu ___.",
+  "exRu": "Я хочу стакан воды.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 2,
+  "ro": "apă",
+  "ru": "вода"
+ },
+ {
+  "id": "mar",
+  "ex": "Mănânc un ___ roșu.",
+  "exRu": "Я ем красное яблоко.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 3,
+  "ro": "măr",
+  "ru": "яблоко"
+ },
+ {
+  "id": "mana",
+  "ex": "Ridică ___, te rog!",
+  "exForm": "mâna",
+  "exRu": "Подними руку, пожалуйста!",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 4,
+  "ro": "mână",
+  "ru": "рука (кисть)"
+ },
+ {
+  "id": "paine",
+  "ex": "Cumpăr ___ de la magazin.",
+  "exRu": "Я покупаю хлеб в магазине.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 5,
+  "ro": "pâine",
+  "ru": "хлеб"
+ },
+ {
+  "id": "caine",
+  "ex": "___ meu se numește Rex.",
+  "exForm": "Câinele",
+  "exRu": "Мою собаку зовут Рекс.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 6,
+  "ro": "câine",
+  "ru": "собака"
+ },
+ {
+  "id": "bicicleta",
+  "ex": "Merg la parc cu ___.",
+  "exForm": "bicicleta",
+  "exRu": "Я еду в парк на велосипеде.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 7,
+  "ro": "bicicletă",
+  "ru": "велосипед"
+ },
+ {
+  "id": "casa",
+  "ex": "Locuiesc într-o ___ mare.",
+  "exRu": "Я живу в большом доме.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 8,
+  "ro": "casă",
+  "ru": "дом"
+ },
+ {
+  "id": "copil",
+  "ex": "___ se joacă în parc.",
+  "exForm": "Copilul",
+  "exRu": "Ребёнок играет в парке.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 9,
+  "ro": "copil",
+  "ru": "ребёнок"
+ },
+ {
+  "id": "camera",
+  "ex": "___ mea este mică.",
+  "exForm": "Camera",
+  "exRu": "Моя комната маленькая.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 10,
+  "ro": "cameră",
+  "ru": "комната"
+ },
+ {
+  "id": "bucatarie",
+  "ex": "Mama gătește în ___.",
+  "exRu": "Мама готовит на кухне.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 11,
+  "ro": "bucătărie",
+  "ru": "кухня"
+ },
+ {
+  "id": "ceas",
+  "ex": "___ arată ora trei.",
+  "exForm": "Ceasul",
+  "exRu": "Часы показывают три часа.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 12,
+  "ro": "ceas",
+  "ru": "часы"
+ },
+ {
+  "id": "cerc",
+  "ex": "Desenez un ___ pe tablă.",
+  "exRu": "Я рисую круг на доске.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 13,
+  "ro": "cerc",
+  "ru": "круг"
+ },
+ {
+  "id": "zece",
+  "ex": "Avem ___ degete la mâini.",
+  "exRu": "У нас десять пальцев на руках.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 14,
+  "ro": "zece",
+  "ru": "десять"
+ },
+ {
+  "id": "cinci",
+  "ex": "O mână are ___ degete.",
+  "exRu": "На руке пять пальцев.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 15,
+  "ro": "cinci",
+  "ru": "пять"
+ },
+ {
+  "id": "aici",
+  "ex": "Eu locuiesc ___.",
+  "exRu": "Я живу здесь.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 16,
+  "ro": "aici",
+  "ru": "здесь"
+ },
+ {
+  "id": "cirese",
+  "ex": "Vara mănânc ___.",
+  "exRu": "Летом я ем черешню.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 17,
+  "ro": "cireșe",
+  "ru": "черешня"
+ },
+ {
+  "id": "cheie",
+  "ex": "Nu găsesc ___ de la ușă.",
+  "exForm": "cheia",
+  "exRu": "Не могу найти ключ от двери.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 18,
+  "ro": "cheie",
+  "ru": "ключ"
+ },
+ {
+  "id": "ochelari",
+  "ex": "Port ___ când citesc.",
+  "exRu": "Я ношу очки, когда читаю.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 19,
+  "ro": "ochelari",
+  "ru": "очки"
+ },
+ {
+  "id": "ureche",
+  "ex": "Mă doare ___.",
+  "exForm": "urechea",
+  "exRu": "У меня болит ухо.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 20,
+  "ro": "ureche",
+  "ru": "ухо"
+ },
+ {
+  "id": "chitara",
+  "ex": "Fratele meu cântă la ___.",
+  "exRu": "Мой брат играет на гитаре.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 21,
+  "ro": "chitară",
+  "ru": "гитара"
+ },
+ {
+  "id": "ochi",
+  "ex": "Ana are ___ verzi.",
+  "exRu": "У Аны зелёные глаза.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 22,
+  "ro": "ochi",
+  "ru": "глаз, глаза"
+ },
+ {
+  "id": "dinozaur",
+  "ex": "Copilul are un ___ de jucărie.",
+  "exRu": "У ребёнка игрушечный динозавр.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 23,
+  "ro": "dinozaur",
+  "ru": "динозавр"
+ },
+ {
+  "id": "dimineata",
+  "ex": "Bună ___! Ai dormit bine?",
+  "exRu": "Доброе утро! Хорошо спала?",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 24,
+  "ro": "dimineață",
+  "ru": "утро"
+ },
+ {
+  "id": "elefant",
+  "ex": "___ are urechi mari.",
+  "exForm": "Elefantul",
+  "exRu": "У слона большие уши.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 25,
+  "ro": "elefant",
+  "ru": "слон"
+ },
+ {
+  "id": "frate",
+  "ex": "Am un ___ și o soră.",
+  "exRu": "У меня есть брат и сестра.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 26,
+  "ro": "frate",
+  "ru": "брат"
+ },
+ {
+  "id": "verde",
+  "ex": "Iarba este ___.",
+  "exRu": "Трава зелёная.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 27,
+  "ro": "verde",
+  "ru": "зелёный"
+ },
+ {
+  "id": "dulce",
+  "ex": "Tortul este foarte ___.",
+  "exRu": "Торт очень сладкий.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 28,
+  "ro": "dulce",
+  "ru": "сладкий"
+ },
+ {
+  "id": "mare",
+  "ex": "Locuim într-un oraș ___.",
+  "exRu": "Мы живём в большом городе.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 29,
+  "ro": "mare",
+  "ru": "большой; море"
+ },
+ {
+  "id": "foarfeca",
+  "ex": "Tai hârtia cu ___.",
+  "exForm": "foarfeca",
+  "exRu": "Я режу бумагу ножницами.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 30,
+  "ro": "foarfecă",
+  "ru": "ножницы"
+ },
+ {
+  "id": "gasca",
+  "ex": "La țară avem o ___ albă.",
+  "exRu": "В деревне у нас белый гусь.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 31,
+  "ro": "gâscă",
+  "ru": "гусь"
+ },
+ {
+  "id": "geanta",
+  "ex": "___ mea este neagră.",
+  "exForm": "Geanta",
+  "exRu": "Моя сумка чёрная.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 32,
+  "ro": "geantă",
+  "ru": "сумка"
+ },
+ {
+  "id": "girafa",
+  "ex": "___ are gâtul lung.",
+  "exForm": "Girafa",
+  "exRu": "У жирафа длинная шея.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 33,
+  "ro": "girafă",
+  "ru": "жираф"
+ },
+ {
+  "id": "ghete",
+  "ex": "Iarna port ___.",
+  "exRu": "Зимой я ношу ботинки.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 34,
+  "ro": "ghete",
+  "ru": "ботинки"
+ },
+ {
+  "id": "ghiocel",
+  "ex": "Primăvara apare ___.",
+  "exForm": "ghiocelul",
+  "exRu": "Весной появляется подснежник.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 35,
+  "ro": "ghiocel",
+  "ru": "подснежник"
+ },
+ {
+  "id": "harta",
+  "ex": "Caut orașul pe ___.",
+  "exRu": "Я ищу город на карте.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 36,
+  "ro": "hartă",
+  "ru": "карта"
+ },
+ {
+  "id": "bine",
+  "ex": "Mulțumesc, sunt ___.",
+  "exRu": "Спасибо, у меня всё хорошо.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 37,
+  "ro": "bine",
+  "ru": "хорошо"
+ },
+ {
+  "id": "iepure",
+  "ex": "___ mănâncă morcovi.",
+  "exForm": "Iepurele",
+  "exRu": "Заяц ест морковку.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 38,
+  "ro": "iepure",
+  "ru": "заяц, кролик"
+ },
+ {
+  "id": "inotator",
+  "ex": "Andrei este un ___ bun.",
+  "exRu": "Андрей — хороший пловец.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 39,
+  "ro": "înotător",
+  "ru": "пловец"
+ },
+ {
+  "id": "jucarie",
+  "ex": "Copilul are o ___ nouă.",
+  "exRu": "У ребёнка новая игрушка.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 40,
+  "ro": "jucărie",
+  "ru": "игрушка"
+ },
+ {
+  "id": "kilogram",
+  "ex": "Cumpăr un ___ de mere.",
+  "exRu": "Я покупаю килограмм яблок.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 41,
+  "ro": "kilogram",
+  "ru": "килограмм"
+ },
+ {
+  "id": "leu",
+  "ex": "___ este regele animalelor.",
+  "exForm": "Leul",
+  "exRu": "Лев — царь зверей.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 42,
+  "ro": "leu",
+  "ru": "лев; лей (валюта)"
+ },
+ {
+  "id": "masina",
+  "ex": "Am o ___ roșie.",
+  "exRu": "У меня красная машина.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 43,
+  "ro": "mașină",
+  "ru": "машина"
+ },
+ {
+  "id": "nori",
+  "ex": "Azi sunt ___ pe cer.",
+  "exRu": "Сегодня на небе облака.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 44,
+  "ro": "nori",
+  "ru": "облака"
+ },
+ {
+  "id": "noapte",
+  "ex": "___ bună! Somn ușor!",
+  "exForm": "Noapte",
+  "exRu": "Спокойной ночи! Лёгкого сна!",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 45,
+  "ro": "noapte",
+  "ru": "ночь"
+ },
+ {
+  "id": "oras",
+  "ex": "Bucureștiul este un ___ mare.",
+  "exRu": "Бухарест — большой город.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 46,
+  "ro": "oraș",
+  "ru": "город"
+ },
+ {
+  "id": "pisica",
+  "ex": "___ doarme pe canapea.",
+  "exForm": "Pisica",
+  "exRu": "Кошка спит на диване.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 47,
+  "ro": "pisică",
+  "ru": "кошка"
+ },
+ {
+  "id": "rinocer",
+  "ex": "___ este un animal mare.",
+  "exForm": "Rinocerul",
+  "exRu": "Носорог — крупное животное.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 48,
+  "ro": "rinocer",
+  "ru": "носорог"
+ },
+ {
+  "id": "seara",
+  "ex": "___ mă uit la televizor.",
+  "exForm": "Seara",
+  "exRu": "Вечером я смотрю телевизор.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 49,
+  "ro": "seară",
+  "ru": "вечер"
+ },
+ {
+  "id": "strada",
+  "ex": "Locuiesc pe ___ Florilor.",
+  "exForm": "strada",
+  "exRu": "Я живу на улице Цветов.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 50,
+  "ro": "stradă",
+  "ru": "улица"
+ },
+ {
+  "id": "astazi",
+  "alt": [
+   "azi"
+  ],
+  "ex": "___ este luni.",
+  "exForm": "Astăzi",
+  "exRu": "Сегодня понедельник.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 51,
+  "ro": "astăzi",
+  "ru": "сегодня"
+ },
+ {
+  "id": "strugure",
+  "alt": [
+   "struguri"
+  ],
+  "ex": "Toamna mâncăm ___.",
+  "exForm": "struguri",
+  "exRu": "Осенью мы едим виноград.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 52,
+  "ro": "strugure",
+  "ru": "виноград"
+ },
+ {
+  "id": "soarece",
+  "ex": "Pisica prinde un ___.",
+  "exRu": "Кошка ловит мышь.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 53,
+  "ro": "șoarece",
+  "ru": "мышь"
+ },
+ {
+  "id": "sase",
+  "ex": "Albina are ___ picioare.",
+  "exRu": "У пчелы шесть ног.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 54,
+  "ro": "șase",
+  "ru": "шесть"
+ },
+ {
+  "id": "usa",
+  "ex": "Închide ___, te rog!",
+  "exForm": "ușa",
+  "exRu": "Закрой дверь, пожалуйста!",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 55,
+  "ro": "ușă",
+  "ru": "дверь"
+ },
+ {
+  "id": "tort",
+  "ex": "Am un ___ de ciocolată.",
+  "exRu": "У меня шоколадный торт.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 56,
+  "ro": "tort",
+  "ru": "торт"
+ },
+ {
+  "id": "toamna",
+  "ex": "___ frunzele cad din copaci.",
+  "exForm": "Toamna",
+  "exRu": "Осенью листья падают с деревьев.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 57,
+  "ro": "toamnă",
+  "ru": "осень"
+ },
+ {
+  "id": "tantar",
+  "ex": "Un ___ zboară în cameră.",
+  "exRu": "В комнате летает комар.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 58,
+  "ro": "țânțar",
+  "ru": "комар"
+ },
+ {
+  "id": "fata",
+  "ex": "___ cântă frumos.",
+  "exForm": "Fata",
+  "exRu": "Девочка красиво поёт.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 59,
+  "ro": "fată",
+  "ru": "девочка, девушка"
+ },
+ {
+  "id": "varza",
+  "ex": "Bunica face sarmale în foi de ___.",
+  "exRu": "Бабушка делает голубцы в капустных листьях.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 60,
+  "ro": "varză",
+  "ru": "капуста"
+ },
+ {
+  "id": "vara",
+  "ex": "___ mergem la mare.",
+  "exForm": "Vara",
+  "exRu": "Летом мы ездим на море.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 61,
+  "ro": "vară",
+  "ru": "лето"
+ },
+ {
+  "id": "iarna",
+  "ex": "___ ninge și este frig.",
+  "exForm": "Iarna",
+  "exRu": "Зимой идёт снег и холодно.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 62,
+  "ro": "iarnă",
+  "ru": "зима"
+ },
+ {
+  "id": "xilofon",
+  "ex": "Copilul cântă la ___.",
+  "exRu": "Ребёнок играет на ксилофоне.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 63,
+  "ro": "xilofon",
+  "ru": "ксилофон"
+ },
+ {
+  "id": "zebra",
+  "ex": "___ are dungi albe și negre.",
+  "exForm": "Zebra",
+  "exRu": "У зебры белые и чёрные полоски.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 64,
+  "ro": "zebră",
+  "ru": "зебра"
+ },
+ {
+  "id": "scoala",
+  "ex": "Copiii merg la ___.",
+  "exRu": "Дети идут в школу.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 65,
+  "ro": "școală",
+  "ru": "школа"
+ },
+ {
+  "id": "cafea",
+  "ex": "Dimineața beau o ___.",
+  "exRu": "Утром я пью кофе.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 66,
+  "ro": "cafea",
+  "ru": "кофе"
+ },
+ {
+  "id": "ploaie",
+  "ex": "Iau umbrela, afară e ___.",
+  "exRu": "Беру зонт, на улице дождь.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 67,
+  "ro": "ploaie",
+  "ru": "дождь"
+ },
+ {
+  "id": "doi",
+  "ex": "Am ___ frați: Andrei și Mihai.",
+  "exRu": "У меня два брата: Андрей и Михай.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 68,
+  "ro": "doi",
+  "ru": "два"
+ },
+ {
+  "id": "trei",
+  "ex": "Avem ___ pisici: Tom, Mia și Leo.",
+  "exRu": "У нас три кошки: Том, Мия и Лео.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 69,
+  "ro": "trei",
+  "ru": "три"
+ },
+ {
+  "id": "sora",
+  "ex": "___ mea este studentă.",
+  "exForm": "Sora",
+  "exRu": "Моя сестра — студентка.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 70,
+  "ro": "soră",
+  "ru": "сестра"
+ },
+ {
+  "id": "mama",
+  "ex": "___ mea este profesoară.",
+  "exForm": "Mama",
+  "exRu": "Моя мама — учительница.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 71,
+  "ro": "mamă",
+  "ru": "мама"
+ },
+ {
+  "id": "barbat",
+  "ex": "Un ___ citește ziarul.",
+  "exRu": "Мужчина читает газету.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 72,
+  "ro": "bărbat",
+  "ru": "мужчина; муж"
+ },
+ {
+  "id": "pix",
+  "ex": "Scriu cu un ___ albastru.",
+  "exRu": "Я пишу синей ручкой.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 73,
+  "ro": "pix",
+  "ru": "шариковая ручка"
+ },
+ {
+  "id": "floare",
+  "ex": "Îi dau mamei o ___.",
+  "exRu": "Я дарю маме цветок.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 74,
+  "ro": "floare",
+  "ru": "цветок"
+ },
+ {
+  "id": "cartof",
+  "alt": [
+   "cartofi"
+  ],
+  "ex": "La prânz mâncăm ___ prăjiți.",
+  "exForm": "cartofi",
+  "exRu": "На обед мы едим жареную картошку.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 75,
+  "ro": "cartof",
+  "ru": "картофелина, картошка"
+ },
+ {
+  "id": "fluture",
+  "ex": "Un ___ zboară în grădină.",
+  "exRu": "В саду летает бабочка.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 76,
+  "ro": "fluture",
+  "ru": "бабочка"
+ },
+ {
+  "id": "mure",
+  "ex": "În pădure culegem ___.",
+  "exRu": "В лесу мы собираем ежевику.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 77,
+  "ro": "mure",
+  "ru": "ежевика"
+ },
+ {
+  "id": "cocos",
+  "ex": "___ cântă dimineața.",
+  "exForm": "Cocoșul",
+  "exRu": "Петух поёт утром.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 78,
+  "ro": "cocoș",
+  "ru": "петух"
+ },
+ {
+  "id": "miere",
+  "ex": "Beau ceai cu ___.",
+  "exRu": "Я пью чай с мёдом.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 79,
+  "ro": "miere",
+  "ru": "мёд"
+ },
+ {
+  "id": "oaie",
+  "ex": "Ciobanul are o ___ albă.",
+  "exRu": "У пастуха белая овца.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 80,
+  "ro": "oaie",
+  "ru": "овца"
+ },
+ {
+  "id": "trandafir",
+  "ex": "Am primit un ___ roșu.",
+  "exRu": "Мне подарили красную розу.",
+  "lesson": "Алфавит · стр. 12–22",
+  "n": 81,
+  "ro": "trandafir",
+  "ru": "роза"
+ },
+ {
+  "id": "morcov",
+  "ex": "Iepurele mănâncă un ___.",
+  "exRu": "Заяц ест морковку.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 1,
+  "ro": "morcov",
+  "ru": "морковь"
+ },
+ {
+  "id": "testoasa",
+  "ex": "___ merge foarte încet.",
+  "exForm": "Țestoasa",
+  "exRu": "Черепаха ходит очень медленно.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 2,
+  "ro": "țestoasă",
+  "ru": "черепаха"
+ },
+ {
+  "id": "ghiozdan",
+  "ex": "Copilul pune cărțile în ___.",
+  "exRu": "Ребёнок кладёт книги в портфель.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 3,
+  "ro": "ghiozdan",
+  "ru": "школьный рюкзак, портфель"
+ },
+ {
+  "id": "gheata",
+  "ex": "Vreau o limonadă cu ___.",
+  "exRu": "Я хочу лимонад со льдом.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 4,
+  "ro": "gheață",
+  "ru": "лёд"
+ },
+ {
+  "id": "chiuveta",
+  "ex": "Spăl vasele în ___.",
+  "exRu": "Я мою посуду в раковине.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 5,
+  "ro": "chiuvetă",
+  "ru": "раковина"
+ },
+ {
+  "id": "pere",
+  "ex": "În grădină avem ___ și mere.",
+  "exRu": "В саду у нас груши и яблоки.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 6,
+  "ro": "pere",
+  "ru": "груши"
+ },
+ {
+  "id": "bere",
+  "ex": "Tata bea o ___ rece.",
+  "exRu": "Папа пьёт холодное пиво.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 7,
+  "ro": "bere",
+  "ru": "пиво"
+ },
+ {
+  "id": "sare",
+  "ex": "Supa nu are ___.",
+  "exRu": "В супе нет соли.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 8,
+  "ro": "sare",
+  "ru": "соль"
+ },
+ {
+  "id": "nas",
+  "ex": "Pinocchio are un ___ lung.",
+  "exRu": "У Пиноккио длинный нос.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 9,
+  "ro": "nas",
+  "ru": "нос"
+ },
+ {
+  "id": "tara",
+  "ex": "România este o ___ frumoasă.",
+  "exRu": "Румыния — красивая страна.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 10,
+  "ro": "țară",
+  "ru": "страна; деревня (la țară)"
+ },
+ {
+  "id": "inger",
+  "ex": "Copilul doarme ca un ___.",
+  "exRu": "Ребёнок спит как ангел.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 11,
+  "ro": "înger",
+  "ru": "ангел"
+ },
+ {
+  "id": "universitate",
+  "ex": "Studiez la ___.",
+  "exRu": "Я учусь в университете.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 12,
+  "ro": "universitate",
+  "ru": "университет"
+ },
+ {
+  "id": "student",
+  "ex": "Mihai este ___ la medicină.",
+  "exRu": "Михай — студент-медик.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 13,
+  "ro": "student",
+  "ru": "студент"
+ },
+ {
+  "id": "facultate",
+  "ex": "Merg la ___ în fiecare zi.",
+  "exRu": "Я хожу на факультет каждый день.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 14,
+  "ro": "facultate",
+  "ru": "факультет"
+ },
+ {
+  "id": "coleg",
+  "ex": "Andrei este ___ meu de clasă.",
+  "exForm": "colegul",
+  "exRu": "Андрей — мой одноклассник.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 15,
+  "ro": "coleg",
+  "ru": "коллега, одноклассник"
+ },
+ {
+  "id": "baiat",
+  "ex": "___ joacă fotbal.",
+  "exForm": "Băiatul",
+  "exRu": "Мальчик играет в футбол.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 16,
+  "ro": "băiat",
+  "ru": "мальчик, парень"
+ },
+ {
+  "id": "doamna",
+  "ex": "Bună ziua, ___ Popescu!",
+  "exForm": "doamna",
+  "exRu": "Добрый день, госпожа Попеску!",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 17,
+  "ro": "doamnă",
+  "ru": "госпожа, дама"
+ },
+ {
+  "id": "domn",
+  "ex": "___ Ionescu este profesor.",
+  "exForm": "Domnul",
+  "exRu": "Господин Ионеску — преподаватель.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 18,
+  "ro": "domn",
+  "ru": "господин"
+ },
+ {
+  "id": "banca",
+  "ex": "Lucrez la o ___.",
+  "exRu": "Я работаю в банке.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 19,
+  "ro": "bancă",
+  "ru": "банк; скамейка"
+ },
+ {
+  "id": "soare",
+  "ex": "Azi este ___ și cald.",
+  "exRu": "Сегодня солнечно и тепло.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 20,
+  "ro": "soare",
+  "ru": "солнце"
+ },
+ {
+  "id": "creion",
+  "ex": "Desenez cu un ___.",
+  "exRu": "Я рисую карандашом.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 21,
+  "ro": "creion",
+  "ru": "карандаш"
+ },
+ {
+  "id": "ceapa",
+  "ex": "Mama taie ___ pentru ciorbă.",
+  "exForm": "ceapa",
+  "exRu": "Мама режет лук для чорбы.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 22,
+  "ro": "ceapă",
+  "ru": "лук"
+ },
+ {
+  "id": "oglinda",
+  "ex": "Mă uit în ___.",
+  "exRu": "Я смотрю в зеркало.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 23,
+  "ro": "oglindă",
+  "ru": "зеркало"
+ },
+ {
+  "id": "nuca",
+  "ex": "Veverița mănâncă o ___.",
+  "exRu": "Белка ест орех.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 24,
+  "ro": "nucă",
+  "ru": "орех"
+ },
+ {
+  "id": "munte",
+  "ex": "Iarna mergem la ___.",
+  "exRu": "Зимой мы ездим в горы.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 25,
+  "ro": "munte",
+  "ru": "гора"
+ },
+ {
+  "id": "pantof",
+  "alt": [
+   "pantofi"
+  ],
+  "ex": "Port ___ negri.",
+  "exForm": "pantofi",
+  "exRu": "Я ношу чёрные туфли.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 26,
+  "ro": "pantof",
+  "ru": "туфля, ботинок"
+ },
+ {
+  "id": "cal",
+  "ex": "Bunicul are un ___ alb.",
+  "exRu": "У дедушки белая лошадь.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 27,
+  "ro": "cal",
+  "ru": "лошадь"
+ },
+ {
+  "id": "ou",
+  "ex": "Mănânc un ___ la micul dejun.",
+  "exRu": "На завтрак я ем яйцо.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 28,
+  "ro": "ou",
+  "ru": "яйцо"
+ },
+ {
+  "id": "pahar",
+  "ex": "Vreau un ___ cu suc.",
+  "exRu": "Я хочу стакан сока.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 29,
+  "ro": "pahar",
+  "ru": "стакан"
+ },
+ {
+  "id": "cravata",
+  "ex": "Tata poartă o ___ albastră.",
+  "exRu": "Папа носит синий галстук.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 30,
+  "ro": "cravată",
+  "ru": "галстук"
+ },
+ {
+  "id": "broasca",
+  "ex": "O ___ sare în lac.",
+  "exRu": "Лягушка прыгает в озеро.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 31,
+  "ro": "broască",
+  "ru": "лягушка"
+ },
+ {
+  "id": "familie",
+  "ex": "Am o ___ mare.",
+  "exRu": "У меня большая семья.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 32,
+  "ro": "familie",
+  "ru": "семья"
+ },
+ {
+  "id": "idee",
+  "ex": "Am o ___ bună!",
+  "exRu": "У меня хорошая идея!",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 33,
+  "ro": "idee",
+  "ru": "идея"
+ },
+ {
+  "id": "peste",
+  "ex": "Vineri mâncăm ___.",
+  "exRu": "В пятницу мы едим рыбу.",
+  "lesson": "Фонетика · стр. 23–24",
+  "n": 34,
+  "ro": "pește",
+  "ru": "рыба"
+ }
+]

@@ -1,0 +1,497 @@
+[
+ {
+  "id": "intro",
+  "n": 1,
+  "phrases": [
+   {
+    "note": "вежливо, на «вы»",
+    "ro": "Bună ziua! Ce mai faceți?",
+    "ru": "Добрый день! Как поживаете?"
+   },
+   {
+    "note": "на «ты»",
+    "ro": "Ce faci?",
+    "ru": "Как дела?"
+   },
+   {
+    "ro": "Bine, mulțumesc. Dar dumneavoastră?",
+    "ru": "Хорошо, спасибо. А вы?"
+   },
+   {
+    "ro": "Mă numesc …",
+    "ru": "Меня зовут …"
+   },
+   {
+    "ro": "Sunt din …, dar locuiesc în România.",
+    "ru": "Я из …, но живу в Румынии."
+   },
+   {
+    "ro": "Îmi pare bine de cunoștință.",
+    "ru": "Приятно познакомиться."
+   },
+   {
+    "ro": "Vorbesc puțin românește.",
+    "ru": "Я немного говорю по-румынски."
+   },
+   {
+    "ro": "Încă învăț limba română.",
+    "ru": "Я ещё учу румынский."
+   },
+   {
+    "ro": "Mulțumesc frumos!",
+    "ru": "Большое спасибо!"
+   },
+   {
+    "ro": "Nu-i nimic.",
+    "ru": "Ничего страшного."
+   },
+   {
+    "ro": "Vă rog să mă scuzați.",
+    "ru": "Прошу прощения."
+   },
+   {
+    "ro": "La revedere și o zi bună!",
+    "ru": "До свидания, хорошего дня!"
+   }
+  ],
+  "title": "Знакомство и вежливость"
+ },
+ {
+  "id": "understand",
+  "n": 2,
+  "phrases": [
+   {
+    "ro": "Nu înțeleg.",
+    "ru": "Я не понимаю."
+   },
+   {
+    "ro": "Puteți să repetați, vă rog?",
+    "ru": "Можете повторить, пожалуйста?"
+   },
+   {
+    "ro": "Vorbiți mai rar, vă rog.",
+    "ru": "Говорите медленнее, пожалуйста."
+   },
+   {
+    "ro": "Ce înseamnă cuvântul acesta?",
+    "ru": "Что значит это слово?"
+   },
+   {
+    "ro": "Cum se spune în română …?",
+    "ru": "Как сказать по-румынски …?"
+   },
+   {
+    "ro": "Puteți să scrieți, vă rog?",
+    "ru": "Можете написать, пожалуйста?"
+   },
+   {
+    "ro": "Vorbiți engleză sau rusă?",
+    "ru": "Вы говорите по-английски или по-русски?"
+   },
+   {
+    "ro": "Am înțeles, mulțumesc.",
+    "ru": "Поняла, спасибо."
+   }
+  ],
+  "title": "Если не понимаешь"
+ },
+ {
+  "id": "shop",
+  "n": 3,
+  "phrases": [
+   {
+    "ro": "Cât costă?",
+    "ru": "Сколько стоит?"
+   },
+   {
+    "ro": "Cât costă un kilogram de roșii?",
+    "ru": "Сколько стоит килограмм помидоров?"
+   },
+   {
+    "note": "досл. «я бы хотела»",
+    "ro": "Aș vrea o pâine, vă rog.",
+    "ru": "Мне, пожалуйста, хлеб."
+   },
+   {
+    "ro": "Dați-mi două sute de grame de brânză, vă rog.",
+    "ru": "Дайте мне двести граммов сыра, пожалуйста."
+   },
+   {
+    "ro": "Aveți lapte?",
+    "ru": "У вас есть молоко?"
+   },
+   {
+    "ro": "Unde găsesc ouăle?",
+    "ru": "Где найти яйца?"
+   },
+   {
+    "ro": "Doar atât, mulțumesc.",
+    "ru": "Это всё, спасибо."
+   },
+   {
+    "ro": "Pot să plătesc cu cardul?",
+    "ru": "Можно оплатить картой?"
+   },
+   {
+    "note": "официально: în numerar",
+    "ro": "Plătesc cash.",
+    "ru": "Я заплачу наличными."
+   },
+   {
+    "ro": "Aveți o pungă?",
+    "ru": "У вас есть пакет?"
+   },
+   {
+    "ro": "Îmi dați bonul, vă rog?",
+    "ru": "Дадите мне чек, пожалуйста?"
+   },
+   {
+    "ro": "Este prea scump.",
+    "ru": "Это слишком дорого."
+   },
+   {
+    "ro": "Aveți o mărime mai mare?",
+    "ru": "У вас есть размер побольше?"
+   },
+   {
+    "ro": "Pot să probez?",
+    "ru": "Можно примерить?"
+   }
+  ],
+  "title": "В магазине и на рынке"
+ },
+ {
+  "id": "cafe",
+  "n": 4,
+  "phrases": [
+   {
+    "ro": "O masă pentru doi, vă rog.",
+    "ru": "Столик на двоих, пожалуйста."
+   },
+   {
+    "ro": "Meniul, vă rog.",
+    "ru": "Меню, пожалуйста."
+   },
+   {
+    "ro": "Ce ne recomandați?",
+    "ru": "Что вы нам посоветуете?"
+   },
+   {
+    "ro": "Aș vrea o cafea cu lapte.",
+    "ru": "Я бы хотела кофе с молоком."
+   },
+   {
+    "note": "apă minerală — газированная вода",
+    "ro": "Un pahar de apă plată, vă rog.",
+    "ru": "Стакан воды без газа, пожалуйста."
+   },
+   {
+    "ro": "Fără zahăr, vă rog.",
+    "ru": "Без сахара, пожалуйста."
+   },
+   {
+    "ro": "Nu mănânc carne.",
+    "ru": "Я не ем мясо."
+   },
+   {
+    "ro": "Nota, vă rog.",
+    "ru": "Счёт, пожалуйста."
+   },
+   {
+    "ro": "Putem plăti separat?",
+    "ru": "Можно заплатить отдельно?"
+   },
+   {
+    "ro": "A fost foarte gustos!",
+    "ru": "Было очень вкусно!"
+   }
+  ],
+  "title": "В кафе и ресторане"
+ },
+ {
+  "id": "doctor",
+  "n": 5,
+  "phrases": [
+   {
+    "ro": "Mă simt rău.",
+    "ru": "Мне плохо. / Я плохо себя чувствую."
+   },
+   {
+    "ro": "Am nevoie de un medic.",
+    "ru": "Мне нужен врач."
+   },
+   {
+    "ro": "Aș vrea să fac o programare la medic.",
+    "ru": "Я хотела бы записаться к врачу."
+   },
+   {
+    "ro": "Mă doare capul.",
+    "ru": "У меня болит голова."
+   },
+   {
+    "ro": "Mă doare gâtul.",
+    "ru": "У меня болит горло."
+   },
+   {
+    "ro": "Mă doare burta.",
+    "ru": "У меня болит живот."
+   },
+   {
+    "ro": "Mă doare aici.",
+    "ru": "У меня болит здесь."
+   },
+   {
+    "ro": "Am febră.",
+    "ru": "У меня температура."
+   },
+   {
+    "ro": "Tușesc de trei zile.",
+    "ru": "Я кашляю уже три дня."
+   },
+   {
+    "note": "ж. р.; мужчина скажет: alergic",
+    "ro": "Sunt alergică la penicilină.",
+    "ru": "У меня аллергия на пенициллин."
+   },
+   {
+    "ro": "Iau medicamente pentru tensiune.",
+    "ru": "Я принимаю лекарства от давления."
+   },
+   {
+    "ro": "Sunt însărcinată.",
+    "ru": "Я беременна."
+   },
+   {
+    "ro": "Am asigurare medicală.",
+    "ru": "У меня есть медицинская страховка."
+   },
+   {
+    "ro": "Unde este cabinetul medicului?",
+    "ru": "Где кабинет врача?"
+   },
+   {
+    "ro": "Cât timp trebuie să iau medicamentul?",
+    "ru": "Сколько времени нужно принимать лекарство?"
+   },
+   {
+    "ro": "Am nevoie de o rețetă?",
+    "ru": "Мне нужен рецепт?"
+   }
+  ],
+  "title": "У врача и в больнице"
+ },
+ {
+  "id": "pharmacy",
+  "n": 6,
+  "phrases": [
+   {
+    "ro": "Aveți ceva pentru durere de cap?",
+    "ru": "У вас есть что-нибудь от головной боли?"
+   },
+   {
+    "ro": "Aveți ceva pentru răceală?",
+    "ru": "У вас есть что-нибудь от простуды?"
+   },
+   {
+    "ro": "Îmi trebuie un medicament fără rețetă.",
+    "ru": "Мне нужно лекарство без рецепта."
+   },
+   {
+    "ro": "De câte ori pe zi trebuie să-l iau?",
+    "ru": "Сколько раз в день его принимать?"
+   },
+   {
+    "ro": "Înainte sau după masă?",
+    "ru": "До еды или после?"
+   },
+   {
+    "ro": "Aveți un plasture?",
+    "ru": "У вас есть пластырь?"
+   }
+  ],
+  "title": "В аптеке"
+ },
+ {
+  "id": "family",
+  "n": 7,
+  "phrases": [
+   {
+    "ro": "Ce mai e nou la voi?",
+    "ru": "Что у вас нового?"
+   },
+   {
+    "ro": "Mi-a fost dor de voi!",
+    "ru": "Я по вам скучала!"
+   },
+   {
+    "ro": "Cum vă simțiți?",
+    "ru": "Как вы себя чувствуете?"
+   },
+   {
+    "ro": "Vă pot ajuta cu ceva?",
+    "ru": "Могу я вам чем-нибудь помочь?"
+   },
+   {
+    "ro": "Masa e gata! Poftă bună!",
+    "ru": "Еда готова! Приятного аппетита!"
+   },
+   {
+    "ro": "Totul a fost delicios, mulțumesc!",
+    "ru": "Всё было очень вкусно, спасибо!"
+   },
+   {
+    "ro": "Mai vreau puțin, vă rog.",
+    "ru": "Можно мне ещё немного, пожалуйста?"
+   },
+   {
+    "note": "ж. р.; мужчина скажет: sătul",
+    "ro": "Sunt sătulă, mulțumesc.",
+    "ru": "Я наелась, спасибо."
+   },
+   {
+    "ro": "La mulți ani!",
+    "ru": "С днём рождения! / С праздником!"
+   },
+   {
+    "ro": "Sărbători fericite!",
+    "ru": "Счастливых праздников!"
+   },
+   {
+    "note": "пасхальное приветствие",
+    "ro": "Hristos a înviat! — Adevărat a înviat!",
+    "ru": "Христос воскрес! — Воистину воскрес!"
+   },
+   {
+    "ro": "Te iubesc.",
+    "ru": "Я тебя люблю."
+   },
+   {
+    "ro": "Când ne vedem?",
+    "ru": "Когда увидимся?"
+   },
+   {
+    "ro": "Sunați-mă când ajungeți.",
+    "ru": "Позвоните мне, когда доедете."
+   },
+   {
+    "ro": "Transmite-le salutări de la mine!",
+    "ru": "Передай им от меня привет!"
+   }
+  ],
+  "title": "С родственниками и дома"
+ },
+ {
+  "id": "transport",
+  "n": 8,
+  "phrases": [
+   {
+    "ro": "Unde este stația de autobuz?",
+    "ru": "Где автобусная остановка?"
+   },
+   {
+    "ro": "Ce autobuz merge în centru?",
+    "ru": "Какой автобус идёт в центр?"
+   },
+   {
+    "ro": "Un bilet, vă rog.",
+    "ru": "Один билет, пожалуйста."
+   },
+   {
+    "ro": "La ce oră pleacă trenul spre București?",
+    "ru": "Во сколько отправляется поезд в Бухарест?"
+   },
+   {
+    "ro": "Cum ajung la gară?",
+    "ru": "Как добраться до вокзала?"
+   },
+   {
+    "ro": "Este departe?",
+    "ru": "Это далеко?"
+   },
+   {
+    "note": "la dreapta — направо",
+    "ro": "Mergeți drept, apoi la stânga.",
+    "ru": "Идите прямо, потом налево."
+   },
+   {
+    "note": "в такси",
+    "ro": "Opriți aici, vă rog.",
+    "ru": "Остановите здесь, пожалуйста."
+   },
+   {
+    "ro": "Chemați-mi un taxi, vă rog.",
+    "ru": "Вызовите мне такси, пожалуйста."
+   },
+   {
+    "ro": "Coborâți la următoarea stație?",
+    "ru": "Вы выходите на следующей остановке?"
+   }
+  ],
+  "title": "Транспорт и дорога"
+ },
+ {
+  "id": "time",
+  "n": 9,
+  "phrases": [
+   {
+    "ro": "Cât este ceasul?",
+    "ru": "Который час?"
+   },
+   {
+    "ro": "Ne vedem mâine la ora zece.",
+    "ru": "Увидимся завтра в десять."
+   },
+   {
+    "ro": "Am întârziat, îmi pare rău.",
+    "ru": "Я опоздала, простите."
+   },
+   {
+    "ro": "Așteptați puțin, vă rog.",
+    "ru": "Подождите немного, пожалуйста."
+   },
+   {
+    "note": "женщине: liberă",
+    "ro": "Când sunteți liber?",
+    "ru": "Когда вы свободны?"
+   },
+   {
+    "note": "ж. р.; мужчина скажет: ocupat",
+    "ro": "Sunt ocupată acum.",
+    "ru": "Я сейчас занята."
+   }
+  ],
+  "title": "Время и встречи"
+ },
+ {
+  "id": "sos",
+  "n": 10,
+  "phrases": [
+   {
+    "ro": "Ajutor!",
+    "ru": "Помогите!"
+   },
+   {
+    "note": "единый номер экстренных служб",
+    "ro": "Sunați la 112!",
+    "ru": "Звоните 112!"
+   },
+   {
+    "ro": "Chemați o ambulanță!",
+    "ru": "Вызовите скорую!"
+   },
+   {
+    "ro": "Unde este spitalul?",
+    "ru": "Где больница?"
+   },
+   {
+    "ro": "Mi-am pierdut telefonul.",
+    "ru": "Я потеряла телефон."
+   },
+   {
+    "ro": "M-am rătăcit.",
+    "ru": "Я заблудилась."
+   }
+  ],
+  "title": "Экстренные случаи"
+ }
+]
