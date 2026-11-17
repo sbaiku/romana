@@ -6,6 +6,7 @@
 <title>Caiet de cuvinte</title>
 <meta name="description" content="Тренажёр румынского: слова из учебника, разговорник, тексты и правила.">
 <meta name="theme-color" content="#c8102e">
+<meta name="color-scheme" content="light">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -29,16 +30,6 @@ img{max-width:100%}
   --body:"Manrope",system-ui,-apple-system,"Segoe UI",sans-serif;
   --r:14px;
 }
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
-  --bg:#151012; --surface:#1e171a; --surface-2:#261d21; --ink:#f7eff0; --muted:#b5a6a9; --line:#3a2d31;
-  --accent:#ff4b5f; --accent-ink:#1a0b0e; --accent-soft:#3e1820;
-  --sun:#a8545f; --sun-soft:#2f1d20;
-  --ok:#4cc48b; --ok-soft:#173528; --bad:#ff7a87; --bad-soft:#3d1a20; color-scheme:dark}}
-:root[data-theme="dark"]{
-  --bg:#151012; --surface:#1e171a; --surface-2:#261d21; --ink:#f7eff0; --muted:#b5a6a9; --line:#3a2d31;
-  --accent:#ff4b5f; --accent-ink:#1a0b0e; --accent-soft:#3e1820;
-  --sun:#a8545f; --sun-soft:#2f1d20;
-  --ok:#4cc48b; --ok-soft:#173528; --bad:#ff7a87; --bad-soft:#3d1a20; color-scheme:dark}
 html,body{background:var(--bg);color:var(--ink)}
 body{font-family:var(--body);font-size:15px;line-height:1.5}
 .app{max-width:720px;margin:0 auto;padding-block:20px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:20px}
